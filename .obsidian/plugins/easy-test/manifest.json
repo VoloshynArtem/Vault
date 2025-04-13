@@ -1,0 +1,9 @@
+{
+	"id": "easy-test",
+	"name": "Easy Test",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Easily create simple tests",
+	"author": "Forrest",
+	"isDesktopOnly": false
+}

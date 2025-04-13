@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "4. Grundlagen der Programmierung/Canvas.canvas",
+                "viewState": {
+                  "x": 1470,
+                  "y": 1290,
+                  "zoom": -1.1388277046973168
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b909feb0f60e3f28",
+    "type": "split",
+    "children": [
+      {
+        "id": "567b46965d2564d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8f9a63b64738c7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6ed76278e2ddc851",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ökonomisc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5e5ea2a217cbd148",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "right": {
+    "id": "711066f9e1547c87",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa3f2a2feb55634b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a07bae815a8186a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6. Binäres rechnen/Canvas.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Canvas"
+            }
+          },
+          {
+            "id": "7a96bd9efc7abd98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6. Binäres rechnen/Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Canvas"
+            }
+          },
+          {
+            "id": "e2ca5a77baf31b5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "261aa0d6ab302659",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Binäres rechnen/Canvas.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Canvas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "c8f9a63b64738c7e",
+  "lastOpenFiles": [
+    "0. Private/3.GrundlagenProgramierung3Skript.pdf.pdf",
+    "0. Private/2.GrundlagenProgramierung2Skript.pdf.pdf",
+    "0. Private/1.GrundlagenProgramierungSkript.pdf.pdf",
+    "0. Private/0. Private/3.GrundlagenProgramierung3Skript.pdf.pdf",
+    "0. Private/0. Private/2.GrundlagenProgramierung2Skript.pdf.pdf",
+    "0. Private/0. Private/1.GrundlagenProgramierungSkript.pdf.pdf",
+    "0. Private/0. Private",
+    "0. Private",
+    "2. BQ Organisation/Canvas.canvas",
+    "0. -Private/3.GrundlagenProgramierung3Skript.pdf.pdf",
+    "0. -Private/2.GrundlagenProgramierung2Skript.pdf.pdf",
+    "0. -Private/1.GrundlagenProgramierungSkript.pdf.pdf",
+    "8. Grundlagen der Programmierung/Pasted image 20250324134411.png",
+    "8. Grundlagen der Programmierung/Pasted image 20250328094958.png",
+    "8. Grundlagen der Programmierung/Vorbereitung klausur.md",
+    "6. Binaeres rechnen/Canvas.canvas",
+    "6. Binaeres rechnen/Pasted image 20250224135328.png",
+    "4. Grundlagen der Programmierung/Canvas.canvas",
+    "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210091000.png",
+    "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210092226.png",
+    "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210093434.png",
+    "3. WiSoR 1/Canvas.canvas",
+    "3. WiSoR 1/Klausur.md",
+    "3. WiSoR 1/Vorbereitung Klausur.md",
+    "3. WiSoR 1/Uebungsaufgaben/Donnerstag/NachfrageElastizitaet.jpg",
+    "2. BQ Organisation/Uebungsaufgaben/Dienstag/Organigramm (anklicken).md",
+    "2. BQ Organisation/Uebungsaufgaben/Montag/Uebung Durchgegangen.md",
+    "2. BQ Organisation/additional media/Montag/Pasted image 20250127094037.png",
+    "1. Karriereassistent/1.2 Erste Recherche.md",
+    "1. Karriereassistent/1.1 Mein Berufsbild.canvas",
+    "8. Grundlagen der Programmierung/IL- Dienstag.md",
+    "8. Grundlagen der Programmierung/IL-Mittwoch.md",
+    "[[PG_2023.pdf.md",
+    "8. Grundlagen der Programmierung/Il-Donnerstag.md",
+    "Excalidraw/Drawing 2025-03-21 11.56.42.excalidraw.md",
+    "8. Grundlagen von absolutem schwachsinn/IL-Montag.md",
+    "7. Arbeitsorganisation/Abschlussabfrage.md",
+    "7. Arbeitsorganisation/Tatiana, 31.md",
+    "7. Arbeitsorganisation/elevator pitch.md",
+    "Pasted image 20250307085606.png",
+    "6. Binäres rechnen/Montag/Zahlensysteme.md",
+    "6. Binäres rechnen/Montag/img/Pasted image 20250224134052.png",
+    "Binäres rechnen/Canvas.canvas",
+    "5. Excel/Canvas.canvas",
+    "Excel 2025-02-17 10.55.27.sheet.md",
+    "5. Excel/Untitled.md",
+    "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Montag.md",
+    "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Mittwoch.md",
+    "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Donnerstag.md",
+    "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Dienstag.md",
+    "2. BQ Organisation/IL-Aufgaben/IL-Aufgaben Donnerstag.md"
+  ]
+}

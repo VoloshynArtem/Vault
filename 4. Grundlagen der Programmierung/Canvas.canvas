@@ -1,0 +1,172 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 2180,
+      "id": "b49fcbea1e072ff2",
+      "label": "Montag",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2900,
+      "x": 20,
+      "y": 200
+    },
+    {
+      "height": 380,
+      "id": "554f87783a7b8e30",
+      "styleAttributes": {
+      },
+      "text": "void climbTheStairs()\n{\n    moveForward();\n    \n    repeat(6) {\n        \n        turnLeft();\n        moveForward();\n        \n        turnRight();\n        moveForward();\n    }\n    \n}",
+      "type": "text",
+      "width": 260,
+      "x": 1520,
+      "y": 660
+    },
+    {
+      "height": 700,
+      "id": "8c9240c85f9a38e7",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://app.strukto.io/",
+      "width": 940,
+      "x": 1960,
+      "y": 340
+    },
+    {
+      "file": "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210091000.png",
+      "height": 380,
+      "id": "169f7ec54a5888b7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 676,
+      "x": 40,
+      "y": 220
+    },
+    {
+      "file": "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210092226.png",
+      "height": 380,
+      "id": "fc81eb5f15ccedb6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 676,
+      "x": 40,
+      "y": 640
+    },
+    {
+      "height": 800,
+      "id": "c21b55beaf44947c",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://app.diagrams.net/",
+      "width": 940,
+      "x": 1960,
+      "y": 1120
+    },
+    {
+      "height": 400,
+      "id": "08d4a42dd78c1600",
+      "styleAttributes": {
+      },
+      "text": "void fillTheHoles()\n{\n    \n    repeat(4) {\n        \n        moveForward();\n        turnRight();\n        moveForward();\n        dropBeeper();\n        turnAround();\n        moveForward();\n        turnRight();\n        moveForward();\n    }\n}",
+      "type": "text",
+      "width": 260,
+      "x": 1520,
+      "y": 1060
+    },
+    {
+      "file": "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210093434.png",
+      "height": 380,
+      "id": "cb920f2b550b793a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 676,
+      "x": 40,
+      "y": 1080
+    },
+    {
+      "file": "0. Private/1.GrundlagenProgramierungSkript.pdf.pdf",
+      "height": 780,
+      "id": "25dcb1b5b7d83350",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 920,
+      "x": 40,
+      "y": 1580
+    },
+    {
+      "color": "1",
+      "height": 760,
+      "id": "a667dfc774b4da86",
+      "styleAttributes": {
+      },
+      "text": "// am I testubg tge cide, or is the code testing me :)\nvoid hangTheLampions() {\n    \n    while(frontIsClear()) {\n        turnLeft();\n        pickBeeper();\n        verticalCollector();\n        turnLeft();\n        moveForward();\n    }\n    turnLeft();\n    pickBeeper();\n    verticalCollector();\n}\n\n\nvoid verticalCollector() {\n    while(frontIsClear()) {\n        moveForward();\n        \n    }\n    \n    dropBeeper();\n    turnAround();\n    \n    while(frontIsClear()) {\n        moveForward();\n        \n    }\n      \n}",
+      "type": "text",
+      "width": 450,
+      "x": 1170,
+      "y": 1600
+    },
+    {
+      "height": 340,
+      "id": "1d4f4989377d4dd2",
+      "styleAttributes": {
+      },
+      "text": "void practiceHomeRun()\n{\n    repeat (4) {\n        repeat(9) {\n            moveForward();    \n        }\n        pickBeeper();\n        \n        turnLeft(); \n    }\n}",
+      "type": "text",
+      "width": 260,
+      "x": 1520,
+      "y": 280
+    },
+    {
+      "height": 380,
+      "id": "68977f1cd17410bc",
+      "styleAttributes": {
+      },
+      "text": "void karelsFirstProgram()\n{\n    // your code here\n    moveForward();\n    pickBeeper();\n    moveForward();\n    turnLeft();\n    moveForward();\n    turnRight();\n    moveForward();\n    dropBeeper();\n    moveForward();\n    \n}",
+      "type": "text",
+      "width": 300,
+      "x": 860,
+      "y": 280
+    },
+    {
+      "height": 760,
+      "id": "fe12fd5e161940e6",
+      "styleAttributes": {
+      },
+      "text": "void obtainArtifact()\n{\n    turnRight();\n    moveForward();\n    \n    turnLeft();\n    \n    repeat (3) {\n        moveForward();\n    }\n    \n    turnLeft();\n    moveForward();\n    pickBeeper();\n    \n    moveForward();\n    turnLeft();\n    \n    repeat(3) {\n        moveForward();\n    }\n    \n    turnLeft();\n    moveForward(); \n    \n    dropBeeper();\n    \n    turnLeft();\n    \n}\n",
+      "type": "text",
+      "width": 300,
+      "x": 860,
+      "y": 680
+    },
+    {
+      "height": 460,
+      "id": "1d3ec57a2d98a8c9",
+      "styleAttributes": {
+      },
+      "text": "void defuseOneBomb()\n{\n    repeat(9) {\n        moveForward();\n    }\n    \n    pickBeeper();\n    turnAround();\n    \n    repeat(9) {\n        moveForward();\n    }\n    \n    turnAround();\n    \n}",
+      "type": "text",
+      "width": 260,
+      "x": 1220,
+      "y": 280
+    },
+    {
+      "height": 760,
+      "id": "f0287dd51b93f3e4",
+      "styleAttributes": {
+      },
+      "text": "void defuseTwoBombs()\n{\n    repeat(9) {\n        moveForward();\n    }\n    \n    pickBeeper();\n    turnAround();\n    \n    repeat(9) {\n        moveForward();\n    }\n    \n    turnRight();\n    \n    repeat(9) {\n        moveForward();\n    }\n    \n    pickBeeper();\n    turnAround();\n    \n    repeat(9) {\n        moveForward();\n    }\n    \n    turnAround();\n}",
+      "type": "text",
+      "width": 260,
+      "x": 1220,
+      "y": 760
+    }
+  ]
+}

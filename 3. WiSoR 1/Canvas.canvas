@@ -1,0 +1,905 @@
+{
+  "edges": [
+    {
+      "fromNode": "4bea275c3d34940a",
+      "fromSide": "top",
+      "id": "e91e829a7da234a4",
+      "styleAttributes": {
+      },
+      "toNode": "45fbec1ba7a02ef9",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "4bea275c3d34940a",
+      "fromSide": "top",
+      "id": "7b520019329eb445",
+      "styleAttributes": {
+      },
+      "toNode": "c9ee4b1c9b14a5b7",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "6a43d29824b99586",
+      "fromSide": "top",
+      "id": "827b7b0d0e0d64d2",
+      "styleAttributes": {
+      },
+      "toNode": "c9ee4b1c9b14a5b7",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "6a43d29824b99586",
+      "fromSide": "top",
+      "id": "fa15943bf7d7fc23",
+      "styleAttributes": {
+      },
+      "toNode": "45fbec1ba7a02ef9",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "4bea275c3d34940a",
+      "fromSide": "bottom",
+      "id": "6bc3516893a75059",
+      "styleAttributes": {
+      },
+      "toNode": "f880e76df72211e7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6a43d29824b99586",
+      "fromSide": "bottom",
+      "id": "82ff14525bd23864",
+      "styleAttributes": {
+      },
+      "toNode": "f880e76df72211e7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4bea275c3d34940a",
+      "fromSide": "right",
+      "id": "36257608e2bc35d4",
+      "styleAttributes": {
+      },
+      "toNode": "244a6fe6c3c7ef44",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "244a6fe6c3c7ef44",
+      "fromSide": "left",
+      "id": "83d40e184aa06c9a",
+      "styleAttributes": {
+      },
+      "toNode": "45fbec1ba7a02ef9",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "6a43d29824b99586",
+      "fromSide": "left",
+      "id": "e957863645fbe45d",
+      "styleAttributes": {
+      },
+      "toNode": "5d13cbb64dfec8b8",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "bb349be14f7b58e5",
+      "fromSide": "bottom",
+      "id": "d9bcd371b711d2e9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "9061161a72b0be35",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bb349be14f7b58e5",
+      "fromSide": "bottom",
+      "id": "db859a6eb0eed087",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "bbc2ecd8af608142",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bbc2ecd8af608142",
+      "fromSide": "bottom",
+      "id": "aabb6e85cf56af2a",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "b0d0ba3819fd8ad5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bbc2ecd8af608142",
+      "fromSide": "bottom",
+      "id": "9a5fd2eb0d86f6a6",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "8a682c2ce9d8a4a3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8a682c2ce9d8a4a3",
+      "fromSide": "bottom",
+      "id": "f836f54653efd8df",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "289ce8a9bcc1fa42",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8a682c2ce9d8a4a3",
+      "fromSide": "bottom",
+      "id": "f5145b435c32665e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "c2b9d60837a870a4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "289ce8a9bcc1fa42",
+      "fromSide": "bottom",
+      "id": "932c2e1b1e9c3843",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "d800cd6ce9aad6fb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c2b9d60837a870a4",
+      "fromSide": "bottom",
+      "id": "356f81998d6f1c86",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "d800cd6ce9aad6fb",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c2b9d60837a870a4",
+      "fromSide": "bottom",
+      "id": "4ed4e78bf2497425",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "decce72c176adb69",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "289ce8a9bcc1fa42",
+      "fromSide": "bottom",
+      "id": "864e493af8fc38b0",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "decce72c176adb69",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b0d0ba3819fd8ad5",
+      "fromSide": "bottom",
+      "id": "9f76f885e342cad3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "8790a8269b5073ab",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b0d0ba3819fd8ad5",
+      "fromSide": "bottom",
+      "id": "6e1c1f70da13cfe9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "f3144c838aff01cb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cb7e7159bce18e3b",
+      "fromSide": "bottom",
+      "id": "9c09c44ce031950e",
+      "styleAttributes": {
+      },
+      "toNode": "171356d3f6b43bb9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "495a1dcf1d31c1f4",
+      "fromSide": "bottom",
+      "id": "e0dd9ec904c22516",
+      "styleAttributes": {
+      },
+      "toNode": "171356d3f6b43bb9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "95b41785bca53ed1",
+      "fromSide": "bottom",
+      "id": "d3b287e8b9fade32",
+      "styleAttributes": {
+      },
+      "toNode": "171356d3f6b43bb9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "171356d3f6b43bb9",
+      "fromSide": "bottom",
+      "id": "94fa65d0719f458c",
+      "styleAttributes": {
+      },
+      "toNode": "d6725510cef8a19b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "31a6a9a6eafa7849",
+      "fromSide": "bottom",
+      "id": "6c18dc9afd2636f1",
+      "styleAttributes": {
+      },
+      "toNode": "d6725510cef8a19b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6baaaed0af8bcdaa",
+      "fromSide": "left",
+      "id": "2e4a5b8f0515f432",
+      "styleAttributes": {
+      },
+      "toNode": "98ca42eb3cb15243",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "6baaaed0af8bcdaa",
+      "fromSide": "right",
+      "id": "86a4ea6a8d0b2237",
+      "styleAttributes": {
+      },
+      "toNode": "9fa16c9d10ea5d73",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6baaaed0af8bcdaa",
+      "fromSide": "right",
+      "id": "45cf3e55881e735d",
+      "styleAttributes": {
+      },
+      "toNode": "e6be3f7371f9cc88",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c9828998ea965bdb",
+      "fromSide": "right",
+      "id": "143a41c7a2b117ec",
+      "styleAttributes": {
+      },
+      "toNode": "e6be3f7371f9cc88",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c9828998ea965bdb",
+      "fromSide": "left",
+      "id": "4daf8c93d3e294a9",
+      "styleAttributes": {
+      },
+      "toNode": "98ca42eb3cb15243",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "e6039ed172a048b4",
+      "fromSide": "bottom",
+      "id": "c619fa08470ce15a",
+      "styleAttributes": {
+      },
+      "toNode": "45a3ba6f1d1457ec",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "c9828998ea965bdb",
+      "fromSide": "bottom",
+      "id": "117ac8b4f515bb5f",
+      "styleAttributes": {
+      },
+      "toNode": "45a3ba6f1d1457ec",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "709748eb2ccaa93d",
+      "fromSide": "bottom",
+      "id": "94e746923032bed4",
+      "styleAttributes": {
+      },
+      "toNode": "18ac2dc899f47763",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "709748eb2ccaa93d",
+      "fromSide": "top",
+      "id": "f9f1d1f51427d522",
+      "styleAttributes": {
+      },
+      "toNode": "06638467dd9daf37",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "e6039ed172a048b4",
+      "fromSide": "top",
+      "id": "4e957080af8d096f",
+      "styleAttributes": {
+      },
+      "toNode": "06638467dd9daf37",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "4bea275c3d34940a",
+      "fromSide": "bottom",
+      "id": "d19be2449b484d35",
+      "styleAttributes": {
+      },
+      "toNode": "f20fa543b7f5ba7f",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "709748eb2ccaa93d",
+      "fromSide": "left",
+      "id": "39d7d133042e50cf",
+      "styleAttributes": {
+      },
+      "toNode": "f20fa543b7f5ba7f",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "16793b8a8a35de0c",
+      "fromSide": "top",
+      "id": "95cb7ab0d5d2c5d5",
+      "styleAttributes": {
+      },
+      "toNode": "f20fa543b7f5ba7f",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "16793b8a8a35de0c",
+      "fromSide": "right",
+      "id": "3578de4ff980e574",
+      "styleAttributes": {
+      },
+      "toNode": "1fca4e481797ce8d",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "6a43d29824b99586",
+      "fromSide": "right",
+      "id": "ba7923ea9f6a140f",
+      "styleAttributes": {
+      },
+      "toNode": "98ca42eb3cb15243",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1fca4e481797ce8d",
+      "fromSide": "bottom",
+      "id": "be1cb8a9dc490c22",
+      "styleAttributes": {
+      },
+      "toNode": "af027f33740e1f27",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2960,
+      "id": "264f9369d293e911",
+      "label": "Montag",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3360,
+      "x": -2000,
+      "y": -1045
+    },
+    {
+      "height": 2490,
+      "id": "23f2ace263de66d0",
+      "label": "Dienstag",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2720,
+      "x": 2720,
+      "y": -575
+    },
+    {
+      "height": 2960,
+      "id": "228539f1e3ec0890",
+      "label": "Mittwoch",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1610,
+      "x": 2800,
+      "y": 2240
+    },
+    {
+      "height": 2080,
+      "id": "52d97ccd0bc0a51c",
+      "label": "Donnerstag",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1440,
+      "x": -80,
+      "y": 2320
+    },
+    {
+      "color": "3",
+      "height": 1080,
+      "id": "5d13cbb64dfec8b8",
+      "label": "Güterarten",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1280,
+      "x": -1880,
+      "y": -245
+    },
+    {
+      "color": "3",
+      "height": 440,
+      "id": "244a6fe6c3c7ef44",
+      "label": "Bedürfnis, Bedarf, Nachfrage",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 480,
+      "x": 760,
+      "y": -765
+    },
+    {
+      "height": 80,
+      "id": "bb349be14f7b58e5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**==Güter==** \nbedürfnisbefriedigende Mittel\n",
+      "type": "text",
+      "width": 260,
+      "x": -1280,
+      "y": -215
+    },
+    {
+      "color": "1",
+      "file": "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Dienstag.md",
+      "height": 1240,
+      "id": "98ca42eb3cb15243",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 940,
+      "x": 2800,
+      "y": -145
+    },
+    {
+      "file": "3. WiSoR 1/additional Media/Dienstag/Produktionsfaktoren.pdf",
+      "height": 820,
+      "id": "6baaaed0af8bcdaa",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": 3880,
+      "y": -145
+    },
+    {
+      "file": "3. WiSoR 1/Uebungsaufgaben/Montag/UeBedBedNachfOekPrinzip.pdf",
+      "height": 800,
+      "id": "c9ee4b1c9b14a5b7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 540,
+      "x": -450,
+      "y": -945
+    },
+    {
+      "file": "3. WiSoR 1/Uebungsaufgaben/Montag/UeBeduerfnisGueterarten.pdf",
+      "height": 800,
+      "id": "45fbec1ba7a02ef9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": 140,
+      "y": -945
+    },
+    {
+      "height": 60,
+      "id": "95b41785bca53ed1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Bedürfnis",
+      "type": "text",
+      "width": 100,
+      "x": 780,
+      "y": -745
+    },
+    {
+      "height": 80,
+      "id": "decce72c176adb69",
+      "styleAttributes": {
+      },
+      "text": "**==Konsumgüter==**\nVerbrauchsgüter",
+      "type": "text",
+      "width": 260,
+      "x": -1700,
+      "y": 725
+    },
+    {
+      "height": 580,
+      "id": "4658434d5c566b24",
+      "styleAttributes": {
+      },
+      "text": "Wochenplan allgemeine betriebswirtschaftliche und Kaufmännische Grundvokabel (Wirtschaftslehre)\n\n4 WiSoR Teile (jeweils 1 Woche)\n\nPrüfungsteil (60 min), multiple choice (10% der IHK-Prüfung muss aber mit einer 4/5 bestehen, solange der durchschnitt besser als 4 ist)\n\n**Montag:**\n1. Bedürfnisse und Güterarten\n2. Bedürfnis / Bedarf / Nachfrage / ökonomischen Prinzip\n**Dienstag:**\n1. Produktionsfaktoren\n2. Arten und Ziele von Betrieben/Kennziffern\n**Mittwoch:**\n1. Markt und Marktarten\n2. Angebot Nachfrage\n3. Wirtschaftskreislauf\n**Donnerstag:**\n1. Volk Markt Preisbildung\n",
+      "type": "text",
+      "width": 560,
+      "x": -1380,
+      "y": 1115
+    },
+    {
+      "height": 80,
+      "id": "d800cd6ce9aad6fb",
+      "styleAttributes": {
+      },
+      "text": "**==Gebrauchsgüter==**\nlangfristig nutzbar",
+      "type": "text",
+      "width": 260,
+      "x": -1700,
+      "y": 595
+    },
+    {
+      "height": 140,
+      "id": "8790a8269b5073ab",
+      "styleAttributes": {
+      },
+      "text": "**==Dienstleistungen==**\nim Moment des Absatzes hergestellt = \n**nicht lagerfähig**",
+      "type": "text",
+      "width": 270,
+      "x": -1240,
+      "y": 365
+    },
+    {
+      "color": "1",
+      "file": "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Montag.md",
+      "height": 880,
+      "id": "f880e76df72211e7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 720,
+      "x": -270,
+      "y": 995
+    },
+    {
+      "file": "3. WiSoR 1/additional Media/Montag/BeduerfnisGueterarten.pdf",
+      "height": 820,
+      "id": "6a43d29824b99586",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": -460,
+      "y": 25
+    },
+    {
+      "file": "3. WiSoR 1/Uebungsaufgaben/Dienstag/UeProduktionsfaktoren.pdf",
+      "height": 820,
+      "id": "9fa16c9d10ea5d73",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": 4560,
+      "y": -145
+    },
+    {
+      "height": 60,
+      "id": "8a682c2ce9d8a4a3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**==materielle Güter==**",
+      "type": "text",
+      "width": 160,
+      "x": -1540,
+      "y": 235
+    },
+    {
+      "file": "3. WiSoR 1/additional Media/Dienstag/BetriebeSektoren.pdf",
+      "height": 820,
+      "id": "c9828998ea965bdb",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": 3880,
+      "y": 835
+    },
+    {
+      "file": "3. WiSoR 1/Uebungsaufgaben/Dienstag/UeBetriebeSektoren.pdf",
+      "height": 820,
+      "id": "e6be3f7371f9cc88",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": 4560,
+      "y": 835
+    },
+    {
+      "height": 140,
+      "id": "f3144c838aff01cb",
+      "styleAttributes": {
+      },
+      "text": "**==Rechte==**\nermöglicht Inhaber zu **tun** und zu **unterlassen**\n(Patente)",
+      "type": "text",
+      "width": 280,
+      "x": -950,
+      "y": 365
+    },
+    {
+      "height": 110,
+      "id": "bbc2ecd8af608142",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**==wirtschaftliche Güter==**\nbegrenzte Anzahl = verursachen Kosten\n",
+      "type": "text",
+      "width": 260,
+      "x": -1100,
+      "y": -25
+    },
+    {
+      "color": "1",
+      "file": "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Donnerstag.md",
+      "height": 732,
+      "id": "f20fa543b7f5ba7f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 760,
+      "x": -20,
+      "y": 2364
+    },
+    {
+      "height": 110,
+      "id": "9061161a72b0be35",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**==freie Güter==**\nunbegrenzte Anzahl = kostenlos, kann von jedem genutzt werden ",
+      "type": "text",
+      "width": 260,
+      "x": -1480,
+      "y": -25
+    },
+    {
+      "height": 70,
+      "id": "289ce8a9bcc1fa42",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**==Produktionsgüter==**\nGekauft von einer Firma",
+      "type": "text",
+      "width": 280,
+      "x": -1860,
+      "y": 365
+    },
+    {
+      "height": 60,
+      "id": "b0d0ba3819fd8ad5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**==immaterielle Güter==**",
+      "type": "text",
+      "width": 180,
+      "x": -1060,
+      "y": 225
+    },
+    {
+      "file": "3. WiSoR 1/additional Media/Montag/BeduerfnisBedNachfrOekPrinzip.pdf",
+      "height": 820,
+      "id": "4bea275c3d34940a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": 140,
+      "y": 25
+    },
+    {
+      "height": 70,
+      "id": "c2b9d60837a870a4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**==Konsumgüter==**\nKauf durch Privatperson",
+      "type": "text",
+      "width": 240,
+      "x": -1520,
+      "y": 365
+    },
+    {
+      "file": "3. WiSoR 1/additional Media/Donnerstag/VollkMarktPreisbildung.pdf",
+      "height": 810,
+      "id": "16793b8a8a35de0c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": 60,
+      "y": 3250
+    },
+    {
+      "height": 60,
+      "id": "d6725510cef8a19b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Nachfrage ",
+      "type": "text",
+      "width": 120,
+      "x": 930,
+      "y": -405
+    },
+    {
+      "file": "3. WiSoR 1/Uebungsaufgaben/Donnerstag/UeVollkMarktPreisbildung.pdf",
+      "height": 810,
+      "id": "1fca4e481797ce8d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": 740,
+      "y": 3250
+    },
+    {
+      "file": "3. WiSoR 1/Uebungsaufgaben/Donnerstag/NachfrageElastizitaet.jpg",
+      "height": 184,
+      "id": "af027f33740e1f27",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 399,
+      "x": 820,
+      "y": 4140
+    },
+    {
+      "color": "6",
+      "file": "3. WiSoR 1/Klausur.md",
+      "height": 3885,
+      "id": "e8b5f620423d26fe",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1140,
+      "x": 1440,
+      "y": 595
+    },
+    {
+      "height": 60,
+      "id": "cb7e7159bce18e3b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Kaufwunsch",
+      "type": "text",
+      "width": 120,
+      "x": 1100,
+      "y": -745
+    },
+    {
+      "height": 60,
+      "id": "31a6a9a6eafa7849",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Kauf",
+      "type": "text",
+      "width": 80,
+      "x": 1100,
+      "y": -575
+    },
+    {
+      "height": 60,
+      "id": "495a1dcf1d31c1f4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Kaufkraft",
+      "type": "text",
+      "width": 100,
+      "x": 940,
+      "y": -745
+    },
+    {
+      "height": 60,
+      "id": "171356d3f6b43bb9",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": "center"
+      },
+      "text": "Bedarf",
+      "type": "text",
+      "width": 95,
+      "x": 945,
+      "y": -575
+    },
+    {
+      "file": "3. WiSoR 1/additional Media/Mittwoch/MarktMarktartenBFAngebotNachfrage.pdf",
+      "height": 820,
+      "id": "709748eb2ccaa93d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": 2940,
+      "y": 3310
+    },
+    {
+      "file": "3. WiSoR 1/Uebungsaufgaben/Mittwoch/UeWirtschaftskreislauf.pdf",
+      "height": 820,
+      "id": "45a3ba6f1d1457ec",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": 3620,
+      "y": 4300
+    },
+    {
+      "color": "1",
+      "file": "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Mittwoch.md",
+      "height": 820,
+      "id": "06638467dd9daf37",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 940,
+      "x": 3100,
+      "y": 2320
+    },
+    {
+      "file": "3. WiSoR 1/additional Media/Mittwoch/Wirtschaftskreislauf.pdf",
+      "height": 820,
+      "id": "e6039ed172a048b4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": 3620,
+      "y": 3310
+    },
+    {
+      "file": "3. WiSoR 1/Uebungsaufgaben/Mittwoch/UeMarktMarktartenBFAngebotNachfrage.pdf",
+      "height": 810,
+      "id": "18ac2dc899f47763",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": 2940,
+      "y": 4300
+    }
+  ]
+}

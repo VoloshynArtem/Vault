@@ -1,0 +1,187 @@
+{
+  "edges": [
+    {
+      "fromNode": "944749df3179402e",
+      "fromSide": "right",
+      "id": "60cc3ab610b9bb08",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "381fb8f7fa38f962",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "944749df3179402e",
+      "fromSide": "right",
+      "id": "a3c97060cbbee62c",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "8835bed003023121",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "944749df3179402e",
+      "fromSide": "left",
+      "id": "5c21b740848a4589",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "826b8b54334ebae8",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "944749df3179402e",
+      "fromSide": "left",
+      "id": "4e0fedfd9fdf84f5",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "674bce253834ec4b",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "8835bed003023121",
+      "fromSide": "bottom",
+      "id": "665398219e13cffa",
+      "styleAttributes": {
+      },
+      "toNode": "381fb8f7fa38f962",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "381fb8f7fa38f962",
+      "fromSide": "bottom",
+      "id": "c1d29c23ad71beab",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "f848937a108eab7c",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "14aa85d2dee5c54a",
+      "fromSide": "right",
+      "id": "cd8ae5b64ad5abf5",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "780d13d410e5442f",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 1360,
+      "id": "3d0ece86cffad69c",
+      "label": "Montag",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1880,
+      "x": -640,
+      "y": -240
+    },
+    {
+      "file": "6. Binäres rechnen/Montag/img/Pasted image 20250224134052.png",
+      "height": 242,
+      "id": "14aa85d2dee5c54a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -120,
+      "y": 708
+    },
+    {
+      "file": "6. Binäres rechnen/Montag/Zahlensysteme.md",
+      "height": 467,
+      "id": "944749df3179402e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -80,
+      "y": -53
+    },
+    {
+      "file": "6. Binäres rechnen/Montag/img/Pasted image 20250224085731.png",
+      "height": 165,
+      "id": "826b8b54334ebae8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -580,
+      "y": -53
+    },
+    {
+      "file": "6. Binäres rechnen/Montag/img/Pasted image 20250224091922.png",
+      "height": 293,
+      "id": "674bce253834ec4b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -580,
+      "y": 141
+    },
+    {
+      "file": "6. Binäres rechnen/Montag/img/Pasted image 20250224112616.png",
+      "height": 165,
+      "id": "381fb8f7fa38f962",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 495,
+      "y": 288
+    },
+    {
+      "file": "6. Binäres rechnen/Montag/img/Pasted image 20250224112629.png",
+      "height": 400,
+      "id": "8835bed003023121",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 355,
+      "x": 518,
+      "y": -160
+    },
+    {
+      "color": "1",
+      "file": "6. Binäres rechnen/Montag/IL Montag - Lösungen.pdf",
+      "height": 400,
+      "id": "5cf01059b0564ac9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -580,
+      "y": 453
+    },
+    {
+      "file": "6. Binaeres rechnen/Pasted image 20250224135328.png",
+      "height": 419,
+      "id": "780d13d410e5442f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 739,
+      "x": 380,
+      "y": 620
+    },
+    {
+      "file": "6. Binäres rechnen/Montag/img/Pasted image 20250224130942.png",
+      "height": 126,
+      "id": "f848937a108eab7c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -80,
+      "y": 453
+    }
+  ]
+}

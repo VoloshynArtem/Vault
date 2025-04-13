@@ -1,0 +1,845 @@
+{
+  "edges": [
+    {
+      "fromNode": "40f79381fc537174",
+      "fromSide": "right",
+      "id": "b4fa35a553db1a00",
+      "toNode": "21e170b58b0ac214",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "40f79381fc537174",
+      "fromSide": "right",
+      "id": "854642dcdcfb56b0",
+      "toNode": "2a2c066480fb7a96",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "21e170b58b0ac214",
+      "fromSide": "bottom",
+      "id": "f92b18b97f348feb",
+      "toNode": "2a2c066480fb7a96",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "db44829ff6e9f8f8",
+      "fromSide": "right",
+      "id": "2eb8a404713f8cc7",
+      "toNode": "8300ae78eb386100",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "db44829ff6e9f8f8",
+      "fromSide": "left",
+      "id": "65e768ed6468023d",
+      "toNode": "547c74b99463e183",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "547c74b99463e183",
+      "fromSide": "bottom",
+      "id": "a438c5d78afc2675",
+      "toNode": "778cc09150395c7c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "547c74b99463e183",
+      "fromSide": "left",
+      "id": "3fbd0d208d0eb6ba",
+      "toNode": "5f3dc6ddc463c4cb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "db44829ff6e9f8f8",
+      "fromSide": "bottom",
+      "id": "17825d3c565835da",
+      "toNode": "bfeb51f24a892dd7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "71ded9551dd8a10a",
+      "fromSide": "right",
+      "id": "47d010fa2a5604e1",
+      "toNode": "72ab588cd1cd5855",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "71ded9551dd8a10a",
+      "fromSide": "right",
+      "id": "7a548239bd349a42",
+      "toNode": "ee26e45e3a7a005c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "71ded9551dd8a10a",
+      "fromSide": "right",
+      "id": "3fd744f93fe98d77",
+      "toNode": "7b9defaaaaec416b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "71ded9551dd8a10a",
+      "fromSide": "right",
+      "id": "c86b2234c90271d1",
+      "toNode": "38c6fcc68e9edc12",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "71ded9551dd8a10a",
+      "fromSide": "top",
+      "id": "0ea9e4ad4ee67d70",
+      "toNode": "b30fde8107bcb096",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "71ded9551dd8a10a",
+      "fromSide": "bottom",
+      "id": "25010672d647d813",
+      "toNode": "0ec251d3a3a340dd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "abc10d8acc5f5a05",
+      "fromSide": "bottom",
+      "id": "4c08234b7914d4bd",
+      "toNode": "0ec251d3a3a340dd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "80e5f3cca2dbd89a",
+      "fromSide": "bottom",
+      "id": "77fc38b4e8854b19",
+      "toNode": "c4ac9310fb2e969b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "abc10d8acc5f5a05",
+      "fromSide": "top",
+      "id": "a4dc0b74cfb8614c",
+      "toNode": "c4ac9310fb2e969b",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "ca9b996ad07b072d",
+      "fromSide": "top",
+      "id": "e83bfbc32c0ffa50",
+      "toNode": "c4ac9310fb2e969b",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "773a3740595ebfa8",
+      "fromSide": "bottom",
+      "id": "5de933ff535e4cb4",
+      "toNode": "dd93ae99c330977f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "71ded9551dd8a10a",
+      "fromSide": "top",
+      "id": "e7b357ee15e2b0ea",
+      "toNode": "dd93ae99c330977f",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "dd93ae99c330977f",
+      "fromSide": "right",
+      "id": "5e3bb5407274e6be",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "toNode": "585825fbe71fd2e1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e406101b88c49da7",
+      "fromSide": "top",
+      "id": "bc3d216208bb1e94",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toNode": "3bbdc472206e6ba3",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "3bbdc472206e6ba3",
+      "fromSide": "bottom",
+      "id": "624c7d50434ee36d",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toNode": "ed3a5500aa2cb850",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "273fc48720ae2f64",
+      "fromSide": "left",
+      "id": "0caf24e1b0d7f87d",
+      "styleAttributes": {
+        "arrow": null
+      },
+      "toNode": "e406101b88c49da7",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "bce3dc2ae251be99",
+      "fromSide": "bottom",
+      "id": "f3d56224d7f29cb8",
+      "styleAttributes": {
+      },
+      "toNode": "3460fe1ba4a2b716",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3f44848da317f074",
+      "fromSide": "left",
+      "id": "d78b7abff5e635f0",
+      "styleAttributes": {
+      },
+      "toNode": "bce3dc2ae251be99",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "3f44848da317f074",
+      "fromSide": "left",
+      "id": "c24cfac8aba58b3b",
+      "styleAttributes": {
+      },
+      "toNode": "3460fe1ba4a2b716",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "3f44848da317f074",
+      "fromSide": "right",
+      "id": "1b56b7d62d372ca3",
+      "styleAttributes": {
+      },
+      "toNode": "17f32645285c6035",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3f44848da317f074",
+      "fromSide": "right",
+      "id": "06d47773f3c0e0d6",
+      "styleAttributes": {
+      },
+      "toNode": "6e3ca1baed0304d8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3f44848da317f074",
+      "fromSide": "bottom",
+      "id": "d5007dd6fdfc5f5b",
+      "styleAttributes": {
+      },
+      "toNode": "8ada487bee718efe",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "3547258aed0e1af4",
+      "fromSide": "right",
+      "id": "557ca060c1d2295b",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "1e65e2a0d4d055a7",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "ba5b97972dd27aeb",
+      "fromSide": "right",
+      "id": "4971df02daea790d",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "382add0b924f4f21",
+      "toSide": "left"
+    },
+    {
+      "color": "#0000ff",
+      "fromNode": "8658f1c3c240a1eb",
+      "fromSide": "right",
+      "id": "603b7af4cd642361",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "03c1a3e88409f362",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5f4e5c21f66de446",
+      "fromSide": "left",
+      "id": "162e4cd664183737",
+      "styleAttributes": {
+      },
+      "toNode": "521ed99afa6b5ee5",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "5f4e5c21f66de446",
+      "fromSide": "bottom",
+      "id": "55f8a2d4d08c3db1",
+      "styleAttributes": {
+      },
+      "toNode": "ee92adb54b677291",
+      "toSide": "right"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 3680,
+      "id": "2faafb880cce9732",
+      "label": "Dienstag",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3600,
+      "x": 2680,
+      "y": -2080
+    },
+    {
+      "height": 3280,
+      "id": "85993e9703d7820a",
+      "label": "Montag",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3960,
+      "x": -1280,
+      "y": 1800
+    },
+    {
+      "height": 2795,
+      "id": "6e87b19049066b58",
+      "label": "Mittwoch",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3160,
+      "x": 5840,
+      "y": 1920
+    },
+    {
+      "height": 2000,
+      "id": "25523a3e28c0da91",
+      "label": "Donnerstag",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2000,
+      "x": 3360,
+      "y": 5080
+    },
+    {
+      "height": 740,
+      "id": "3460fe1ba4a2b716",
+      "label": " ",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 900,
+      "x": 5920,
+      "y": 3071
+    },
+    {
+      "height": 240,
+      "id": "585825fbe71fd2e1",
+      "label": "d)",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 646,
+      "x": 4755,
+      "y": -1195
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Dienstag/Leitungsspanne.pdf",
+      "height": 1218,
+      "id": "ca9b996ad07b072d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 954,
+      "x": 2766,
+      "y": -718
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Dienstag/Hierarchie im betrieb.pdf",
+      "height": 1218,
+      "id": "abc10d8acc5f5a05",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 840,
+      "x": 3794,
+      "y": -716
+    },
+    {
+      "file": "2. BQ Organisation/Uebungsaufgaben/Dienstag/Organigramm (anklicken).md",
+      "height": 400,
+      "id": "c4ac9310fb2e969b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 554,
+      "x": 3033,
+      "y": -1290
+    },
+    {
+      "file": "2. BQ Organisation/Uebungsaufgaben/Dienstag/UeDiOrganigramm.pdf",
+      "height": 530,
+      "id": "80e5f3cca2dbd89a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 821,
+      "x": 2899,
+      "y": -1900
+    },
+    {
+      "file": "2. BQ Organisation/Uebungsaufgaben/Dienstag/UeDiLeitungssysteme.pdf",
+      "height": 530,
+      "id": "773a3740595ebfa8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 920,
+      "x": 3804,
+      "y": -1900
+    },
+    {
+      "file": "2. BQ Organisation/Uebungsaufgaben/Montag/Uebung Durchgegangen.md",
+      "height": 1161,
+      "id": "5f3dc6ddc463c4cb",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 620,
+      "x": -1060,
+      "y": 1940
+    },
+    {
+      "file": "2. BQ Organisation/Uebungsaufgaben/Montag/UeGrundbegriffe, Aufgabenanalyse, Stellen-und Abteilungsbildung.pdf",
+      "height": 840,
+      "id": "547c74b99463e183",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 580,
+      "x": -1020,
+      "y": 3301
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Montag/LoeGrundbegriffe.pdf",
+      "height": 280,
+      "id": "778cc09150395c7c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 360,
+      "x": -860,
+      "y": 4280
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Montag/InventarGH.pdf",
+      "height": 910,
+      "id": "40f79381fc537174",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 693,
+      "x": 640,
+      "y": 1871
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Montag/Grundbegriffe, Aufgabenanalyse, Stellen-und Abteilungsbildung.pdf",
+      "height": 1301,
+      "id": "db44829ff6e9f8f8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 808,
+      "x": -260,
+      "y": 2879
+    },
+    {
+      "file": "2. BQ Organisation/Uebungsaufgaben/Mittwoch/UeFuehrungsstile, Fuehrungstechniken.pdf",
+      "height": 1180,
+      "id": "17f32645285c6035",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 840,
+      "x": 8040,
+      "y": 2050
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Mittwoch/Fuehrungsstile, Fuehrungstechniken.pdf",
+      "height": 1180,
+      "id": "3f44848da317f074",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 840,
+      "x": 7000,
+      "y": 2481
+    },
+    {
+      "file": "2. BQ Organisation/Uebungsaufgaben/Mittwoch/UeMiFuehrungstechniken.pdf",
+      "height": 560,
+      "id": "bce3dc2ae251be99",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 840,
+      "x": 5950,
+      "y": 2436
+    },
+    {
+      "height": 120,
+      "id": "1e65e2a0d4d055a7",
+      "styleAttributes": {
+      },
+      "text": "Den Mitarbeitern werden klare Ziele, Aufgaben und Kompetenzen übertragen; der Vorgesetzte entscheidet nur noch in Ausnahmesituationen.",
+      "type": "text",
+      "width": 460,
+      "x": 6320,
+      "y": 3091
+    },
+    {
+      "color": "1",
+      "file": "2. BQ Organisation/IL-Aufgaben/IL-Aufgaben Montag.md",
+      "height": 661,
+      "id": "bfeb51f24a892dd7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 660,
+      "x": -186,
+      "y": 4280
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Montag/Pasted image 20250127094037.png",
+      "height": 563,
+      "id": "f82452da3638b022",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 620,
+      "x": 765,
+      "y": 4260
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Montag/InventarUebungen5-6.pdf",
+      "height": 861,
+      "id": "21e170b58b0ac214",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 760,
+      "x": 1620,
+      "y": 1920
+    },
+    {
+      "file": "2. BQ Organisation/1. Montag.md",
+      "height": 1361,
+      "id": "8300ae78eb386100",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 745,
+      "x": 640,
+      "y": 2850
+    },
+    {
+      "file": "2. BQ Organisation/Uebungsaufgaben/Montag/InventarUebungen5-6Schema.pdf",
+      "height": 1302,
+      "id": "2a2c066480fb7a96",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 960,
+      "x": 1480,
+      "y": 2879
+    },
+    {
+      "file": "2. BQ Organisation/Uebungsaufgaben/Dienstag/Leitungssysteme.md",
+      "height": 430,
+      "id": "dd93ae99c330977f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 777,
+      "x": 3876,
+      "y": -1290
+    },
+    {
+      "file": "2. BQ Organisation/Uebungsaufgaben/Dienstag/UeLeitungs- und Entscheidungssysteme.pdf",
+      "height": 1060,
+      "id": "b30fde8107bcb096",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 700,
+      "x": 5460,
+      "y": -1900
+    },
+    {
+      "height": 60,
+      "id": "273fc48720ae2f64",
+      "styleAttributes": {
+      },
+      "text": "Assistent",
+      "type": "text",
+      "width": 140,
+      "x": 5241,
+      "y": -1036
+    },
+    {
+      "height": 61,
+      "id": "ed3a5500aa2cb850",
+      "styleAttributes": {
+      },
+      "text": "Produktionsleiter",
+      "type": "text",
+      "width": 186,
+      "x": 4775,
+      "y": -1036
+    },
+    {
+      "height": 60,
+      "id": "e406101b88c49da7",
+      "styleAttributes": {
+      },
+      "text": "Verkaufsleiter",
+      "type": "text",
+      "width": 160,
+      "x": 5041,
+      "y": -1036
+    },
+    {
+      "height": 50,
+      "id": "3bbdc472206e6ba3",
+      "styleAttributes": {
+      },
+      "text": "Unternehmensleitung",
+      "type": "text",
+      "width": 220,
+      "x": 4901,
+      "y": -1175
+    },
+    {
+      "height": 120,
+      "id": "0588cb6bdd066ccc",
+      "styleAttributes": {
+      },
+      "text": "Die Entscheidung liegt in den Händen der Mitarbeiter und wird gemeinsam getroffen; eine Kon- trolle durch Vorgesetzte entfällt.",
+      "type": "text",
+      "width": 460,
+      "x": 6320,
+      "y": 3236
+    },
+    {
+      "height": 120,
+      "id": "382add0b924f4f21",
+      "styleAttributes": {
+      },
+      "text": "Der Vorgesetzte einigt sich mit den Mitarbeitern auf klare Zielvorgaben; das selbstverantwortliche Handeln der Mitarbeiter wird an den Zielen durch einen Soll-Ist-Vergleich gemessen.",
+      "type": "text",
+      "width": 460,
+      "x": 6320,
+      "y": 3381
+    },
+    {
+      "height": 60,
+      "id": "3547258aed0e1af4",
+      "styleAttributes": {
+      },
+      "text": "Management by Exception",
+      "type": "text",
+      "width": 280,
+      "x": 5950,
+      "y": 3121
+    },
+    {
+      "file": "2. BQ Organisation/Uebungsaufgaben/Mittwoch/UebungengemischtnachFuehrungsstile.pdf",
+      "height": 1180,
+      "id": "6e3ca1baed0304d8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 840,
+      "x": 8040,
+      "y": 3291
+    },
+    {
+      "height": 60,
+      "id": "ba5b97972dd27aeb",
+      "styleAttributes": {
+      },
+      "text": "Management by Objectives",
+      "type": "text",
+      "width": 280,
+      "x": 5950,
+      "y": 3411
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Donnerstag/Ablauforganisation (1).pdf",
+      "height": 1200,
+      "id": "5f4e5c21f66de446",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 840,
+      "x": 4400,
+      "y": 5160
+    },
+    {
+      "file": "2. BQ Organisation/Uebungsaufgaben/Donnerstag/UeAblauforganisation (1).pdf",
+      "height": 1200,
+      "id": "521ed99afa6b5ee5",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 840,
+      "x": 3480,
+      "y": 5160
+    },
+    {
+      "color": "1",
+      "file": "2. BQ Organisation/IL-Aufgaben/IL-Aufgaben Donnerstag.md",
+      "height": 500,
+      "id": "ee92adb54b677291",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 740,
+      "x": 3700,
+      "y": 6460
+    },
+    {
+      "file": "2. BQ Organisation/Klausur.pdf",
+      "height": 3240,
+      "id": "030056d7f27b2492",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 2500,
+      "x": 3070,
+      "y": 1676
+    },
+    {
+      "height": 100,
+      "id": "b7288f867e5a5aa3",
+      "styleAttributes": {
+      },
+      "text": "Die Mitarbeiter handeln nur auf Anweisungen des Vorgesetzten; einen Verantwortungs- bzw. Ent- scheidungsspielraum haben die Mitarbeiter nicht.",
+      "type": "text",
+      "width": 460,
+      "x": 6320,
+      "y": 3536
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Dienstag/LeitungssystemeLehrtext.pdf",
+      "height": 1157,
+      "id": "71ded9551dd8a10a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 820,
+      "x": 4720,
+      "y": -686
+    },
+    {
+      "height": 120,
+      "id": "03c1a3e88409f362",
+      "styleAttributes": {
+      },
+      "text": "Der Vorgesetzte gibt seinen Mitarbeitern die Ziele vor; die Mitarbeiter erhalten entsprechende Handlungskompetenz mit Entscheidungsbefugnis.",
+      "type": "text",
+      "width": 460,
+      "x": 6320,
+      "y": 3661
+    },
+    {
+      "height": 60,
+      "id": "8658f1c3c240a1eb",
+      "styleAttributes": {
+      },
+      "text": "Managbement by Delegation",
+      "type": "text",
+      "width": 280,
+      "x": 5960,
+      "y": 3691
+    },
+    {
+      "color": "1",
+      "file": "2. BQ Organisation/IL-Aufgaben/IL-Aufgaben Mittwoch.md",
+      "height": 480,
+      "id": "8ada487bee718efe",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 960,
+      "x": 6940,
+      "y": 3961
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Dienstag/Mehrliniensystem.pdf",
+      "height": 400,
+      "id": "7b9defaaaaec416b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 5760,
+      "y": 19
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Dienstag/Einliniensystem.pdf",
+      "height": 500,
+      "id": "38c6fcc68e9edc12",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 5760,
+      "y": -541
+    },
+    {
+      "color": "1",
+      "file": "2. BQ Organisation/IL-Aufgaben/IL-Aufgaben Dienstag.md",
+      "height": 640,
+      "id": "0ec251d3a3a340dd",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 859,
+      "x": 4000,
+      "y": 720
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Dienstag/Matrixorganisatino.pdf",
+      "height": 400,
+      "id": "72ab588cd1cd5855",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 5760,
+      "y": 880
+    },
+    {
+      "file": "2. BQ Organisation/additional media/Dienstag/Stabliniensystem.pdf",
+      "height": 348,
+      "id": "ee26e45e3a7a005c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 5760,
+      "y": 471
+    }
+  ]
+}
