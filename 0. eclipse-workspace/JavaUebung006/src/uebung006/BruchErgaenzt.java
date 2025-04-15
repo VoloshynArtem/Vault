@@ -16,12 +16,13 @@ public class BruchErgaenzt extends Bruch {
 		
     }
 	
-	public Bruch Addieren(Bruch b) {
+	public BruchErgaenzt Addieren(BruchErgaenzt b) {
 		
 		
-		return new Bruch(
-				b.getNenner()*this.getZaehler()+b.getZaehler()+this.getZaehler(),
-				(this.getNenner() * b.getNenner()));
+		return new BruchErgaenzt(
+		        this.getZaehler() * b.getNenner() + b.getZaehler() * this.getNenner(),
+		        this.getNenner() * b.getNenner()
+		    );
 		
 		
 	}
@@ -37,7 +38,7 @@ public class BruchErgaenzt extends Bruch {
 	
 	public double dezimalwert() {
 		
-		return this.getZaehler() / this.getNenner();
+		return (double) this.getZaehler() / this.getNenner(); //<--- this one got me ngl 
 		
 	}
 	
