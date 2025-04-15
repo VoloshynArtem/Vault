@@ -26,52 +26,52 @@ public class Rechteck {
 	
     // Setter for laenge
     public void setLaenge(double l) {
-        this.laenge = l;
+        laenge = l;
     }
 
     // Setter for breite
     public void setBreite(double b) {
-        this.breite = b;
+        breite = b;
     }
 
     // Setter for both sides
     public void setSeiten(double l, double b) {
-        this.laenge = l;
-        this.breite = b;
+        laenge = l;
+        breite = b;
     }
 
     // Getter for laenge
     public double getLaenge() {
-        return this.laenge;
+        return laenge;
     }
 
     // Getter for breite
     public double getBreite() {
-        return this.breite;
+        return breite;
     }
 
     // Getter for the longer side
     public double getLangeSeite() {
-        return Math.max(this.laenge, this.breite);
+        return Math.max(laenge, breite);
     }
 
     // Getter for the shorter side
     public double getKurzeSeite() {
-        return Math.min(this.laenge, this.breite);
+        return Math.min(laenge, breite);
     }
 
     // Getter for the diagonal
     public double getDiagonale() {
-        return Math.sqrt(this.laenge * this.laenge + this.breite * this.breite);
+        return Math.sqrt(laenge * laenge + breite * breite);
     }
 
     // Getter for the area
     public double getFlaeche() {
-        return this.laenge * this.breite;
+        return laenge * breite;
     }
 
     // Getter for the perimeter
     public double getUmfang() {
-        return 2 * (this.laenge + this.breite);
+        return 2 * (laenge + breite);
     }
 }

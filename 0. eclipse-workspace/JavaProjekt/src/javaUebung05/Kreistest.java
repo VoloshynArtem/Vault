@@ -37,17 +37,8 @@ public class Kreistest {
 		Kreis1 k = new Kreis1(s);
 		
 		System.out.print(" | " + k.getRadius() + "			| ");
-		
-		
 		System.out.print(k.getUmfang() + "			| ");
-		
-		System.out.print(k.getFlaeche() + "			| " + "\n");
-		
+		System.out.print(k.getFlaeche() + "			| " + "\n");	
 		Kreistabelle(++i, s+e, e);
-		
-		
-		
 	}
-	
-	
 }
