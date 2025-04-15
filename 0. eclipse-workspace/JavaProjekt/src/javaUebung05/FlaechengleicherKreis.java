@@ -4,11 +4,12 @@ import javax.swing.JOptionPane;
 
 public class FlaechengleicherKreis {
 	static Rechteck r ;
-	static Kreis k ;
+	static Kreis1 k ;
 	public static void main (String [] args ) {
 		
+		k = new Kreis1();
 		r = new Rechteck2(eingabe("l"), eingabe("b"));
-		k = new Kreis((Math.sqrt(r.getFlaeche() / Math.PI)));
+		k.setFlaeche(r.getFlaeche());
 		System.out.println("r: " + k.getRadius());
 		System.out.println("f: " + k.getFlaeche());
 	}

@@ -11,17 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "4. Grundlagen der Programmierung/Canvas.canvas",
-                "viewState": {
-                  "x": 1470,
-                  "y": 1290,
-                  "zoom": -1.1388277046973168
-                }
+                "file": "0. Private/3.GrundlagenProgramierung3Skript.pdf.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas"
+              "icon": "lucide-file-text",
+              "title": "3.GrundlagenProgramierung3Skript.pdf"
             }
           }
         ]
@@ -81,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "right": {
     "id": "711066f9e1547c87",
@@ -174,26 +170,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c8f9a63b64738c7e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "0. Private/3.GrundlagenProgramierung3Skript.pdf.pdf",
-    "0. Private/2.GrundlagenProgramierung2Skript.pdf.pdf",
-    "0. Private/1.GrundlagenProgramierungSkript.pdf.pdf",
-    "0. Private/0. Private/3.GrundlagenProgramierung3Skript.pdf.pdf",
-    "0. Private/0. Private/2.GrundlagenProgramierung2Skript.pdf.pdf",
-    "0. Private/0. Private/1.GrundlagenProgramierungSkript.pdf.pdf",
-    "0. Private/0. Private",
-    "0. Private",
+    "0. eclipse-workspace/JavaUebung006/bin/uebung006/Anteil.class",
+    "0. eclipse-workspace/JavaUebung006/src/uebung006/Anteil.java",
+    "0. eclipse-workspace/JavaUebung006/bin/uebung006/SerineNummerTest.class",
+    "0. eclipse-workspace/JavaUebung006/src/uebung006/SerineNummerTest.java",
+    "0. eclipse-workspace/JavaUebung006/bin/uebung006/NotEnoughMoneyException.class",
+    "0. eclipse-workspace/JavaUebung006/bin/uebung006/Kontotest.class",
+    "0. eclipse-workspace/JavaUebung006/bin/uebung006/Konto.class",
+    "0. eclipse-workspace/JavaUebung006/bin/uebung006/Girokontotest.class",
+    "0. eclipse-workspace/JavaUebung006/bin/uebung006/Girokonto.class",
+    "0. eclipse-workspace/JavaUebung006/bin/uebung006/BruchMitSeriennummer.class",
+    "0. eclipse-workspace/JavaUebung006/bin/uebung006/BruchErgaenzt.class",
+    "README.md",
+    "4. Grundlagen der Programmierung/Canvas.canvas",
     "2. BQ Organisation/Canvas.canvas",
-    "0. -Private/3.GrundlagenProgramierung3Skript.pdf.pdf",
-    "0. -Private/2.GrundlagenProgramierung2Skript.pdf.pdf",
-    "0. -Private/1.GrundlagenProgramierungSkript.pdf.pdf",
     "8. Grundlagen der Programmierung/Pasted image 20250324134411.png",
     "8. Grundlagen der Programmierung/Pasted image 20250328094958.png",
     "8. Grundlagen der Programmierung/Vorbereitung klausur.md",
     "6. Binaeres rechnen/Canvas.canvas",
     "6. Binaeres rechnen/Pasted image 20250224135328.png",
-    "4. Grundlagen der Programmierung/Canvas.canvas",
     "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210091000.png",
     "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210092226.png",
     "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210093434.png",
