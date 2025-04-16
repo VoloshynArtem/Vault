@@ -70,17 +70,6 @@
       "y": 640
     },
     {
-      "height": 800,
-      "id": "c21b55beaf44947c",
-      "styleAttributes": {
-      },
-      "type": "link",
-      "url": "https://app.diagrams.net/",
-      "width": 940,
-      "x": 1960,
-      "y": 1120
-    },
-    {
       "file": "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210093434.png",
       "height": 380,
       "id": "cb920f2b550b793a",
@@ -114,17 +103,6 @@
       "y": 280
     },
     {
-      "height": 340,
-      "id": "1d4f4989377d4dd2",
-      "styleAttributes": {
-      },
-      "text": "void practiceHomeRun()\n{\n    repeat (4) {\n        repeat(9) {\n            moveForward();    \n        }\n        pickBeeper();\n        \n        turnLeft(); \n    }\n}",
-      "type": "text",
-      "width": 260,
-      "x": 1520,
-      "y": 280
-    },
-    {
       "height": 760,
       "id": "f0287dd51b93f3e4",
       "styleAttributes": {
@@ -134,6 +112,28 @@
       "width": 260,
       "x": 1220,
       "y": 760
+    },
+    {
+      "height": 800,
+      "id": "c21b55beaf44947c",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://app.diagrams.net/",
+      "width": 940,
+      "x": 1960,
+      "y": 1120
+    },
+    {
+      "height": 340,
+      "id": "1d4f4989377d4dd2",
+      "styleAttributes": {
+      },
+      "text": "void practiceHomeRun()\n{\n    repeat (4) {\n        repeat(9) {\n            moveForward();    \n        }\n        pickBeeper();\n        \n        turnLeft(); \n    }\n}",
+      "type": "text",
+      "width": 260,
+      "x": 1520,
+      "y": 280
     },
     {
       "height": 380,

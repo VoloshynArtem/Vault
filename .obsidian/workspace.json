@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "right": {
     "id": "711066f9e1547c87",
@@ -172,6 +171,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "4. Grundlagen der Programmierung/Canvas.canvas",
+    "0. Private/3.GrundlagenProgramierung3Skript.pdf.pdf",
     "0. eclipse-workspace/JavaUebung006/bin/uebung006/Anteiltest.class",
     "0. eclipse-workspace/JavaUebung006/src/uebung006/Anteiltest.java",
     "0. eclipse-workspace/JavaUebung006/bin/uebung006/SerineNummerTest.class",
@@ -181,10 +182,7 @@
     "0. eclipse-workspace/JavaUebung006/bin/uebung006/Girokonto.class",
     "0. eclipse-workspace/JavaUebung006/bin/uebung006/Konto.class",
     "0. eclipse-workspace/JavaUebung006/bin/uebung006/Girokontotest.class",
-    "0. eclipse-workspace/JavaUebung006/bin/uebung006/BruchMitSeriennummer.class",
-    "0. eclipse-workspace/JavaUebung006/bin/uebung006/Bruch.class",
     "README.md",
-    "4. Grundlagen der Programmierung/Canvas.canvas",
     "2. BQ Organisation/Canvas.canvas",
     "8. Grundlagen der Programmierung/Pasted image 20250324134411.png",
     "8. Grundlagen der Programmierung/Pasted image 20250328094958.png",

@@ -20,15 +20,9 @@ public class Anteil extends BruchErgaenzt {
 		return verteilt.dezimalwert();
 	}
 
-	public BruchErgaenzt getRest() {//ahh kein plan was die aufgabe von mior will
-	    BruchErgaenzt b = new BruchErgaenzt(1, 1);  
-	   
-
+	public BruchErgaenzt getRest() {
+		return new BruchErgaenzt(verteilt.getNenner()-verteilt.getZaehler() , verteilt.getNenner());
 	    
-	    b.setZaehler(b.getZaehler() + verteilt.getZaehler());
-	    b.setNenner(b.getNenner() * verteilt.getNenner());
-
-	    return b;
 	}
 
 	public BruchErgaenzt getVerteilO() { //<--- encapsulation und so krass dass die aufgaben sich davon abweichen
