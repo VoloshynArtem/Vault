@@ -103,6 +103,17 @@
       "y": 280
     },
     {
+      "height": 340,
+      "id": "1d4f4989377d4dd2",
+      "styleAttributes": {
+      },
+      "text": "void practiceHomeRun()\n{\n    repeat (4) {\n        repeat(9) {\n            moveForward();    \n        }\n        pickBeeper();\n        \n        turnLeft(); \n    }\n}",
+      "type": "text",
+      "width": 260,
+      "x": 1520,
+      "y": 280
+    },
+    {
       "height": 760,
       "id": "f0287dd51b93f3e4",
       "styleAttributes": {
@@ -123,17 +134,6 @@
       "width": 940,
       "x": 1960,
       "y": 1120
-    },
-    {
-      "height": 340,
-      "id": "1d4f4989377d4dd2",
-      "styleAttributes": {
-      },
-      "text": "void practiceHomeRun()\n{\n    repeat (4) {\n        repeat(9) {\n            moveForward();    \n        }\n        pickBeeper();\n        \n        turnLeft(); \n    }\n}",
-      "type": "text",
-      "width": 260,
-      "x": 1520,
-      "y": 280
     },
     {
       "height": 380,

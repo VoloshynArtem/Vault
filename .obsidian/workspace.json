@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "34e6563815a6cb3f",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "967e0a5eaff1a7c3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "0. Private/3.GrundlagenProgramierung3Skript.pdf.pdf"
+                "file": "10. Relationale Datenbanken/Montag.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "3.GrundlagenProgramierung3Skript.pdf"
+              "title": "Montag"
+            }
+          },
+          {
+            "id": "7b2fc936bebc9883",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "10. Relationale Datenbanken/Dienstag.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Dienstag"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,32 +171,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "homepage:Open homepage": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c8f9a63b64738c7e",
   "lastOpenFiles": [
-    "0. Private/3.GrundlagenProgramierung3Skript.pdf.pdf",
-    "0. eclipse-workspace/JavaUebung07/bin/zahlensysteme/Eingabetest.class",
-    "0. eclipse-workspace/JavaUebung07/src/zahlensysteme/Eingabetest.java",
-    "0. eclipse-workspace/JavaUebung07/bin/zahlensysteme/Hexumrechner.class",
-    "0. eclipse-workspace/JavaUebung07/src/zahlensysteme/Hexumrechner.java",
-    "0. eclipse-workspace/JavaUebung07/bin/zahlensysteme/Zahlensysteme.class",
-    "0. eclipse-workspace/JavaUebung07/src/zahlensysteme/Zahlensysteme.java",
-    "0. eclipse-workspace/JavaUebung07/bin/zahlensysteme",
-    "0. eclipse-workspace/JavaUebung07/src/zahlensysteme",
-    "0. eclipse-workspace/JavaUebung07/src/uebung07/Vokalloescher.java",
-    "0. eclipse-workspace/JavaUebung07/src/uebung07/Stringsort.java",
-    "4. Grundlagen der Programmierung/Canvas.canvas",
+    "10. Relationale Datenbanken/Montag.pdf",
+    "10. Relationale Datenbanken/Fragen.md",
+    "10. Relationale Datenbanken/Dienstag.pdf",
     "README.md",
+    "4. Grundlagen der Programmierung/Canvas.canvas",
+    "10. Relationale Datenbanken/lösungenDienstag.sql",
+    "10. Relationale Datenbanken/aufgabe - Copy.sql",
+    "10. Relationale Datenbanken/aufgabe.sql",
+    "10. Relationale Datenbanken/aufgabe1.sql",
+    "10. Relationale Datenbanken/IL Dienstag/aufgabe1.sql",
+    "10. Relationale Datenbanken/IL Dienstag",
+    "10. Relationale Datenbanken/New folder",
+    "01-Einführung-Datenbank.pdf",
     "2. BQ Organisation/Canvas.canvas",
     "8. Grundlagen der Programmierung/Pasted image 20250324134411.png",
     "8. Grundlagen der Programmierung/Pasted image 20250328094958.png",
