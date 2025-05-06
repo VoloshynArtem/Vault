@@ -145,9 +145,12 @@ insert into festplatten(Modell, Kapazität, Lesegeschwindigkeit, Schreibgeschwin
 SELECT * from festplatten;
 Select * from hersteller;
 
+
+use hardware;
 Select Bezeichnung, 
     Modell, 
     Concat(Kapazität, " GB" ) as Kapazität,
+    Concat(ROUND(Kapazität * 100.0 / SUM(Kapazität) OVER (), 2), " %") AS procentile,
     Hauptsitz
 From festplatten
 Join hersteller on festplatten.HerstellerID = hersteller.ID

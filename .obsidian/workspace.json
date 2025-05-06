@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "34e6563815a6cb3f",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "967e0a5eaff1a7c3",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "10. Relationale Datenbanken/Montag.pdf"
+                "file": "10. Relationale Datenbanken/il-Montag.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Montag"
-            }
-          },
-          {
-            "id": "7b2fc936bebc9883",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "10. Relationale Datenbanken/Dienstag.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Dienstag"
+              "icon": "lucide-file",
+              "title": "il-Montag"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,21 +171,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8f9a63b64738c7e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "10. Relationale Datenbanken/Montag.pdf",
+    "10. Relationale Datenbanken/merged.pdf",
+    "10. Relationale Datenbanken/Freitag.pdf",
+    "10. Relationale Datenbanken/07-Übung-Normalisierung.pdf",
+    "10. Relationale Datenbanken/il-Montag.md",
+    "10. Relationale Datenbanken/(╬▔皿▔)╯.zip",
+    "10. Relationale Datenbanken/il-Montag.zip",
     "10. Relationale Datenbanken/Fragen.md",
+    "10. Relationale Datenbanken/Mittwoch.pdf",
     "10. Relationale Datenbanken/Dienstag.pdf",
+    "10. Relationale Datenbanken/aufgabeFreitag2.sql",
+    "10. Relationale Datenbanken/freitagAufgaben.sql",
+    "10. Relationale Datenbanken/FreitagAufgaben.txt",
     "README.md",
     "4. Grundlagen der Programmierung/Canvas.canvas",
-    "10. Relationale Datenbanken/lösungenDienstag.sql",
-    "10. Relationale Datenbanken/aufgabe - Copy.sql",
-    "10. Relationale Datenbanken/aufgabe.sql",
-    "10. Relationale Datenbanken/aufgabe1.sql",
-    "10. Relationale Datenbanken/IL Dienstag/aufgabe1.sql",
-    "10. Relationale Datenbanken/IL Dienstag",
-    "10. Relationale Datenbanken/New folder",
-    "01-Einführung-Datenbank.pdf",
     "2. BQ Organisation/Canvas.canvas",
     "8. Grundlagen der Programmierung/Pasted image 20250324134411.png",
     "8. Grundlagen der Programmierung/Pasted image 20250328094958.png",
@@ -234,7 +224,6 @@
     "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Montag.md",
     "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Mittwoch.md",
     "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Donnerstag.md",
-    "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Dienstag.md",
-    "2. BQ Organisation/IL-Aufgaben/IL-Aufgaben Donnerstag.md"
+    "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Dienstag.md"
   ]
 }
