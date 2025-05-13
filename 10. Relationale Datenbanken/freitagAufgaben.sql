@@ -83,4 +83,3 @@ GROUP BY Flugstunden.personalNR
 limit 10;
 
 
-
