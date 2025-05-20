@@ -27,8 +27,7 @@ create table Flugstunden(
 
 
 show tables;
-
-
+use hardware;
 -- generate sample data
 
 -- Insert sample data into Pilot table

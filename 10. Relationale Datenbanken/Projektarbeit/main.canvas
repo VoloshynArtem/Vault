@@ -1,0 +1,792 @@
+{
+  "edges": [
+    {
+      "fromNode": "61455e067491d90d",
+      "fromSide": "left",
+      "id": "916598ff3b824e95",
+      "label": "n",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "1388c4b38ccbe206",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "61455e067491d90d",
+      "fromSide": "right",
+      "id": "d97654c1220cf104",
+      "label": "m",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "b358721dc7505169",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1f6487b00500ed30",
+      "fromSide": "bottom",
+      "id": "00f76ab186eb3131",
+      "label": "1",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "c5ac5b62885868e3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1f6487b00500ed30",
+      "fromSide": "top",
+      "id": "406cbf8ca67b95e0",
+      "label": "n",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "b358721dc7505169",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "1388c4b38ccbe206",
+      "fromSide": "bottom",
+      "id": "112e3e67cf7daea5",
+      "label": "n",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "55231b9445901f16",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "55231b9445901f16",
+      "fromSide": "bottom",
+      "id": "47663b065fcbd78d",
+      "label": "m",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "393fc5eafd5b6a45",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "732ae598adaa6576",
+      "fromSide": "top",
+      "id": "ac73a588242f32e8",
+      "label": "1",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "88b39dd01d78b269",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "732ae598adaa6576",
+      "fromSide": "bottom",
+      "id": "aef61b00a5f46b02",
+      "label": "n",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "1388c4b38ccbe206",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e3a78259deb17438",
+      "fromSide": "right",
+      "id": "9a4c32beeb686cc8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "1388c4b38ccbe206",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "267c491ce5fcf512",
+      "fromSide": "right",
+      "id": "b0c0570440765b47",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "1388c4b38ccbe206",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "62d79763ea1c2bae",
+      "fromSide": "right",
+      "id": "034650fb880e03cf",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "1388c4b38ccbe206",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8f79c18ad1dcd660",
+      "fromSide": "right",
+      "id": "fe97536f5ed2049a",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "1388c4b38ccbe206",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "077ff8590ae89f69",
+      "fromSide": "right",
+      "id": "a585a5970693ad5b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "1388c4b38ccbe206",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1f07c209a4e545b5",
+      "fromSide": "right",
+      "id": "29f1daeecaa7e7ca",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "1388c4b38ccbe206",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ee26795f5c34215b",
+      "fromSide": "left",
+      "id": "8060c792b954f172",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "393fc5eafd5b6a45",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "b35484bf5287063d",
+      "fromSide": "left",
+      "id": "99c72594084a3194",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "393fc5eafd5b6a45",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "ad5fab0124acb842",
+      "fromSide": "left",
+      "id": "ae676911b8701f8b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "c5ac5b62885868e3",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "6b2f8e21af46228b",
+      "fromSide": "left",
+      "id": "1192f6d1636e9e20",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "c5ac5b62885868e3",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "187e89a6cc229210",
+      "fromSide": "left",
+      "id": "027ef4b2448a839d",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "c5ac5b62885868e3",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "5e8b25e39af6c76c",
+      "fromSide": "left",
+      "id": "16ccfa2841e8fbcc",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "c5ac5b62885868e3",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "4d5e672c77cc7b4a",
+      "fromSide": "left",
+      "id": "91746e3ff2848a86",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "c5ac5b62885868e3",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "b358721dc7505169",
+      "fromSide": "top",
+      "id": "e2da6bc0345a2521",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "70f853554b1d0eb6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b358721dc7505169",
+      "fromSide": "top",
+      "id": "effdf7c87bf1ed7c",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "e56f0d1ba08c7bdd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b358721dc7505169",
+      "fromSide": "top",
+      "id": "eb16e4ac59fa78c1",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "cd20f797ae6a25ed",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "88b39dd01d78b269",
+      "fromSide": "top",
+      "id": "442874e8188589d3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "4a26641746822902",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "88b39dd01d78b269",
+      "fromSide": "top",
+      "id": "2714f04f9394054a",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "90ec3c17518bb677",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "88b39dd01d78b269",
+      "fromSide": "top",
+      "id": "5e7b0d9f4c349f52",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "45cdc9ec1448b6d8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "61455e067491d90d",
+      "fromSide": "top",
+      "id": "d3fa2ba43b357a19",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "fda5dcfc703e50a8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "61455e067491d90d",
+      "fromSide": "top",
+      "id": "e53f30d25f87d71c",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "209c1b44a2e07380",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "61455e067491d90d",
+      "fromSide": "top",
+      "id": "a0b55c8823cde3ee",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "93cc88a77b251e59",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8285cdaf3b894336",
+      "fromSide": "right",
+      "id": "eb4020f74eb32054",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "1388c4b38ccbe206",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 1660,
+      "id": "787881a12ed55ceb",
+      "label": "ERM",
+      "type": "group",
+      "width": 1620,
+      "x": -1240,
+      "y": 360
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "1f07c209a4e545b5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "_**ProduktID**_",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1140
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "077ff8590ae89f69",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "HerstellerID",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1250
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "8f79c18ad1dcd660",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Name",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1340
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "88b39dd01d78b269",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Hersteller",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 740
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "e56f0d1ba08c7bdd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "KundeID",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": 840
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "70f853554b1d0eb6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "_**BestellungID**_\n",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": 940
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "393fc5eafd5b6a45",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Kategorie",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 1400
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "62d79763ea1c2bae",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Beschreibung",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1440
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "267c491ce5fcf512",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Preis",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1540
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "e3a78259deb17438",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Lagerbestand",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1640
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "b35484bf5287063d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "_**KategorieID**_\n",
+      "type": "text",
+      "width": 260,
+      "x": -590,
+      "y": 1550
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "ee26795f5c34215b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Bezeichnung",
+      "type": "text",
+      "width": 260,
+      "x": -590,
+      "y": 1660
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "4d5e672c77cc7b4a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "_**KundeID**_",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": 1460
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "5e8b25e39af6c76c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Vorname",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": 1560
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "187e89a6cc229210",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Nachname",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": 1660
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "732ae598adaa6576",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "produziert / designd",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 900
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "1388c4b38ccbe206",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Produkt",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 1060
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "55231b9445901f16",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "ProduktKategorie",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 1230
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "61455e067491d90d",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "Bestellposition",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": 1060
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "209c1b44a2e07380",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Menge",
+      "type": "text",
+      "width": 170,
+      "x": -290,
+      "y": 850
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "fda5dcfc703e50a8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Einzelpreis",
+      "type": "text",
+      "width": 170,
+      "x": -290,
+      "y": 940
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "b358721dc7505169",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Bestellung",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": 1060
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "1f6487b00500ed30",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "bestellt",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": 1200
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "6b2f8e21af46228b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Email",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": 1760
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "ad5fab0124acb842",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Adress",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": 1860
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "c5ac5b62885868e3",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Kunde",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": 1340
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "45cdc9ec1448b6d8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Hauptsitz",
+      "type": "text",
+      "width": 260,
+      "x": -545,
+      "y": 420
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "90ec3c17518bb677",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Name",
+      "type": "text",
+      "width": 260,
+      "x": -545,
+      "y": 520
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "4a26641746822902",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "_**HerstellerID**_\n",
+      "type": "text",
+      "width": 260,
+      "x": -545,
+      "y": 620
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "93cc88a77b251e59",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "__**PositionID**__\n\n",
+      "type": "text",
+      "width": 170,
+      "x": -290,
+      "y": 750
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "cd20f797ae6a25ed",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Bestelldatum",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": 740
+    },
+    {
+      "height": 320,
+      "id": "c89bbae7766e9931",
+      "styleAttributes": {
+      },
+      "text": "**Beschreibung**:  \nDie Datenbank stellt das Produktsortiment und die Bestellübersciht eines Handelsunternehmens. Sie umfasst Produkte, Kategorien, Hersteller, Kunden, Bestellungen und die bestellten Artikel. Ziel ist es, eine übersichtliche Datenstruktur zur Verwaltung des Sortiments und der Kundenkäufe zu erstellen.\n\n**Einsatzzweck**:  \nAuswertung von Verkäufen, Kundenverhalten und inventurdurchführung.",
+      "type": "text",
+      "width": 620,
+      "x": -700,
+      "y": -40
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "8285cdaf3b894336",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "KategorieID\n",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1730
+    }
+  ]
+}
