@@ -15,9 +15,9 @@
               "state": {
                 "file": "10. Relationale Datenbanken/Projektarbeit/main.canvas",
                 "viewState": {
-                  "x": 613.9731917531965,
-                  "y": 1196.748389636482,
-                  "zoom": -0.35838170892869414
+                  "x": 673.1689519650656,
+                  "y": 743.7843013100438,
+                  "zoom": -1.4753014108206048
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "right": {
     "id": "711066f9e1547c87",
@@ -176,22 +177,22 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Untitled.md",
+    "10. Relationale Datenbanken/Projektarbeit/main.canvas",
+    "4. Grundlagen der Programmierung/Canvas.canvas",
+    "10. Relationale Datenbanken/Projektarbeit.zip",
+    "10. Relationale Datenbanken/il-Montag.md",
+    "10. Relationale Datenbanken/Projektarbeit/RDM.pdf",
+    "10. Relationale Datenbanken/Projektarbeit/Projektarbeit-Daten-Select.sql",
+    "10. Relationale Datenbanken/IL195.sql",
     "projektarbeit.graphml",
     "10. Relationale Datenbanken/Projektarbeit/Projektarbeit-Daten-Update.sql",
     "10. Relationale Datenbanken/Projektarbeit/Projektarbeit-Daten-Insert.sql",
     "10. Relationale Datenbanken/Projektarbeit/createDatabase.sql",
     "10. Relationale Datenbanken/Projektarbeit/New Text Document.txt",
     "10. Relationale Datenbanken/Projektarbeit",
-    "10. Relationale Datenbanken/Projektarbeit/main.canvas",
-    "10. Relationale Datenbanken/il-Montag.md",
-    "10. Relationale Datenbanken/sqlIlMittwoch.sql",
-    "10. Relationale Datenbanken/flightradar.py",
-    "10. Relationale Datenbanken/ilsSQLDienstag - Copy.sql",
-    "10. Relationale Datenbanken/(╬▔皿▔)╯.zip",
-    "10. Relationale Datenbanken/sumserioussequeling.sql",
     "10. Relationale Datenbanken/Fragen.md",
     "README.md",
-    "4. Grundlagen der Programmierung/Canvas.canvas",
     "2. BQ Organisation/Canvas.canvas",
     "8. Grundlagen der Programmierung/Pasted image 20250324134411.png",
     "8. Grundlagen der Programmierung/Pasted image 20250328094958.png",
@@ -228,7 +229,6 @@
     "5. Excel/Untitled.md",
     "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Montag.md",
     "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Mittwoch.md",
-    "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Donnerstag.md",
-    "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Dienstag.md"
+    "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Donnerstag.md"
   ]
 }

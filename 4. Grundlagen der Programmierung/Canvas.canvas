@@ -37,17 +37,6 @@
       "y": 680
     },
     {
-      "height": 460,
-      "id": "1d3ec57a2d98a8c9",
-      "styleAttributes": {
-      },
-      "text": "void defuseOneBomb()\n{\n    repeat(9) {\n        moveForward();\n    }\n    \n    pickBeeper();\n    turnAround();\n    \n    repeat(9) {\n        moveForward();\n    }\n    \n    turnAround();\n    \n}",
-      "type": "text",
-      "width": 260,
-      "x": 1220,
-      "y": 280
-    },
-    {
       "file": "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210091000.png",
       "height": 380,
       "id": "169f7ec54a5888b7",
@@ -103,6 +92,39 @@
       "y": 280
     },
     {
+      "height": 800,
+      "id": "c21b55beaf44947c",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://app.diagrams.net/",
+      "width": 940,
+      "x": 1960,
+      "y": 1120
+    },
+    {
+      "height": 700,
+      "id": "8c9240c85f9a38e7",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://app.strukto.io/",
+      "width": 940,
+      "x": 1960,
+      "y": 340
+    },
+    {
+      "height": 460,
+      "id": "1d3ec57a2d98a8c9",
+      "styleAttributes": {
+      },
+      "text": "void defuseOneBomb()\n{\n    repeat(9) {\n        moveForward();\n    }\n    \n    pickBeeper();\n    turnAround();\n    \n    repeat(9) {\n        moveForward();\n    }\n    \n    turnAround();\n    \n}",
+      "type": "text",
+      "width": 260,
+      "x": 1220,
+      "y": 280
+    },
+    {
       "height": 340,
       "id": "1d4f4989377d4dd2",
       "styleAttributes": {
@@ -125,17 +147,6 @@
       "y": 760
     },
     {
-      "height": 800,
-      "id": "c21b55beaf44947c",
-      "styleAttributes": {
-      },
-      "type": "link",
-      "url": "https://app.diagrams.net/",
-      "width": 940,
-      "x": 1960,
-      "y": 1120
-    },
-    {
       "height": 380,
       "id": "554f87783a7b8e30",
       "styleAttributes": {
@@ -145,17 +156,6 @@
       "width": 260,
       "x": 1520,
       "y": 660
-    },
-    {
-      "height": 700,
-      "id": "8c9240c85f9a38e7",
-      "styleAttributes": {
-      },
-      "type": "link",
-      "url": "https://app.strukto.io/",
-      "width": 940,
-      "x": 1960,
-      "y": 340
     },
     {
       "height": 400,

@@ -242,7 +242,7 @@ INSERT INTO ProduktKategorie (ProduktID, KategorieID) VALUES
     (100, 1)
 ;
 
-
+-- okay okay einfach mal die Tabellennamen lesen, was könnte hier passieren ??????????????
 INSERT INTO Bestellung (KundenID, Bestelldatum) VALUES
     (1, '2025-05-01'),
     (2, '2025-05-02'),
@@ -252,7 +252,7 @@ INSERT INTO Bestellung (KundenID, Bestelldatum) VALUES
     (5, '2025-05-07')
 ;
 
-
+-- beziehungstabelle Bestellposition and stuff
 INSERT INTO Bestellposition (BestellungID, ProduktID, Menge) VALUES
     (1, 1, 2),
     (1, 3, 1),
