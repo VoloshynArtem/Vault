@@ -1,16 +1,16 @@
 USE projektarbeit;
 
 
---alle Produkte welche unter 100€ kosten
+-- alle Produkte welche unter 100€ kosten
 
 SELECT Name, Beschreibung, Preis FROM Produkt
 WHERE Preis < 100
-LEFTPreis DESC
+Order by Preis DESC
 ;
 
 
 
---alle Produkte die nachbestellt werden müssen
+-- alle Produkte die nachbestellt werden müssen
 
 SELECT 
     Name, ProduktID,
@@ -52,7 +52,7 @@ SELECT
 
  FROM Kunde
 NATURAL JOIN Bestellung
-LEFTBestelldatum DESC
+ORDER BY Bestelldatum DESC
 ;
 
 
@@ -68,7 +68,8 @@ SELECT
 FROM hersteller
 JOIN produkt USING(HerstellerID)
 WHERE hersteller.Name LIKE "%Tech%" AND Lagerbestand > 20
-LEFTPreis
+Order By Preis DESC
+
 ;
 
 
@@ -84,7 +85,7 @@ FROM bestellposition
 JOIN Produkt using(ProduktID)
 JOIN Bestellung using(BestellungID)
 LEFT JOIN Kunde using(KundenID)
-LEFTBestellungID DESC
+ORDER BY BestellungID DESC
 ;
 
 
@@ -96,7 +97,7 @@ SELECT p.Name, p.Beschreibung, Preis, k.Bezeichnung FROM produktkategorie pk
 JOIN produkt p on pk.ProduktID = p.ProduktID
 JOIN kategorie k on pk.KategorieID = k.KategorieID
 where k.Bezeichnung = "Smartphones"
-LEFTPreis DESC
+ORDER BY Preis DESC
 LIMIT 10
 ;
 

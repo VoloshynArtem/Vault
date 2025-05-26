@@ -1,0 +1,167 @@
+{
+  "edges": [
+    {
+      "fromNode": "8111c8ad8c4d36cc",
+      "fromSide": "left",
+      "id": "4daeb8da2d8e20e6",
+      "styleAttributes": {
+      },
+      "toNode": "6160b31ee5cc153a",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "6160b31ee5cc153a",
+      "fromSide": "left",
+      "id": "e059e5a158fdfb0f",
+      "label": "Leistung wird in Inhalt und Qualität aufgeteilt",
+      "styleAttributes": {
+      },
+      "toNode": "065300323d5be0f4",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "fce66653580a4bd4",
+      "fromSide": "top",
+      "id": "0629add416eaca17",
+      "styleAttributes": {
+      },
+      "toNode": "065300323d5be0f4",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "fce66653580a4bd4",
+      "fromSide": "top",
+      "id": "c647731b22b995de",
+      "styleAttributes": {
+      },
+      "toNode": "6160b31ee5cc153a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "3596433dd532af84",
+      "fromSide": "bottom",
+      "id": "3524bd48bf606439",
+      "styleAttributes": {
+      },
+      "toNode": "065300323d5be0f4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3596433dd532af84",
+      "fromSide": "bottom",
+      "id": "055c3eb7e744306a",
+      "styleAttributes": {
+      },
+      "toNode": "6160b31ee5cc153a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3596433dd532af84",
+      "fromSide": "right",
+      "id": "0378caa8a9ae8545",
+      "styleAttributes": {
+      },
+      "toNode": "a90ade6037a38395",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2280,
+      "id": "1e5883415101dbaa",
+      "label": "Montag",
+      "type": "group",
+      "width": 1840,
+      "x": -920,
+      "y": -1920
+    },
+    {
+      "file": "Media/DasMagischeDreieck.png",
+      "height": 254,
+      "id": "6160b31ee5cc153a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 270,
+      "x": 60,
+      "y": -346
+    },
+    {
+      "height": 130,
+      "id": "8111c8ad8c4d36cc",
+      "styleAttributes": {
+      },
+      "text": "Produktmanagement verhandelt zwischen einzelnen “Ecken”",
+      "type": "text",
+      "width": 260,
+      "x": 460,
+      "y": -284
+    },
+    {
+      "file": "Media/DasMagischeViereck.png",
+      "height": 254,
+      "id": "065300323d5be0f4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 261,
+      "x": -660,
+      "y": -346
+    },
+    {
+      "file": "Media/SmartFormel.png",
+      "height": 380,
+      "id": "3596433dd532af84",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 571,
+      "x": -455,
+      "y": -960
+    },
+    {
+      "file": "Media/Smart beispiel.png",
+      "height": 320,
+      "id": "a90ade6037a38395",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 590,
+      "x": 240,
+      "y": -930
+    },
+    {
+      "color": "1",
+      "file": "11. Systemanalyse/IL/IL-Montag2.md",
+      "height": 734,
+      "id": "ee66c0b6d951bec9",
+      "type": "file",
+      "width": 776,
+      "x": 72,
+      "y": -1860
+    },
+    {
+      "color": "1",
+      "file": "11. Systemanalyse/IL/IL-Montag1.md",
+      "height": 734,
+      "id": "ea0dda99ee20fe51",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 751,
+      "x": -880,
+      "y": -1860
+    },
+    {
+      "height": 120,
+      "id": "fce66653580a4bd4",
+      "styleAttributes": {
+      },
+      "text": "Dreieck und Viereck wird in der Planungsphase und in der Umsetzungsphase eingesetzt ",
+      "type": "text",
+      "width": 260,
+      "x": -299,
+      "y": 40
+    }
+  ]
+}

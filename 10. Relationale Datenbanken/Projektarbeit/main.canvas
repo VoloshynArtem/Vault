@@ -391,34 +391,6 @@
       "y": 740
     },
     {
-      "color": "5",
-      "height": 60,
-      "id": "732ae598adaa6576",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "text": "produziert / designd",
-      "type": "text",
-      "width": 260,
-      "x": -760,
-      "y": 900
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "8285cdaf3b894336",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "KategorieID\n",
-      "type": "text",
-      "width": 260,
-      "x": -1160,
-      "y": 1730
-    },
-    {
       "file": "10. Relationale Datenbanken/Projektarbeit/RDM.pdf",
       "height": 1200,
       "id": "691203039c230802",
@@ -428,34 +400,6 @@
       "width": 2070,
       "x": 480,
       "y": 500
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "61455e067491d90d",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "text": "Bestellposition",
-      "type": "text",
-      "width": 260,
-      "x": -460,
-      "y": 1060
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "1388c4b38ccbe206",
-      "styleAttributes": {
-        "shape": null,
-        "textAlign": "center"
-      },
-      "text": "Produkt",
-      "type": "text",
-      "width": 260,
-      "x": -760,
-      "y": 1060
     },
     {
       "color": "#ff00ae",
@@ -488,6 +432,48 @@
     {
       "color": "#ff00ae",
       "height": 60,
+      "id": "45cdc9ec1448b6d8",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "Hauptsitz",
+      "type": "text",
+      "width": 210,
+      "x": -590,
+      "y": 410
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "90ec3c17518bb677",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "Name",
+      "type": "text",
+      "width": 210,
+      "x": -590,
+      "y": 510
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "4a26641746822902",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "_**H̲e̲r̲s̲t̲e̲l̲l̲e̲r̲I̲D̲**_\n",
+      "type": "text",
+      "width": 210,
+      "x": -590,
+      "y": 610
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
       "id": "e56f0d1ba08c7bdd",
       "styleAttributes": {
         "shape": "circle",
@@ -498,6 +484,258 @@
       "width": 260,
       "x": 40,
       "y": 840
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "732ae598adaa6576",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "produziert / designd",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 900
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "8285cdaf3b894336",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "KategorieID\n",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1730
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "61455e067491d90d",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "Bestellposition",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": 1060
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "1388c4b38ccbe206",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Produkt",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 1060
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "393fc5eafd5b6a45",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Kategorie",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 1400
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "55231b9445901f16",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "ProduktKategorie",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 1230
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "b35484bf5287063d",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "_**K̲a̲t̲e̲g̲o̲r̲i̲e̲I̲D̲**_\n",
+      "type": "text",
+      "width": 260,
+      "x": -590,
+      "y": 1550
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "ee26795f5c34215b",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "Bezeichnung",
+      "type": "text",
+      "width": 260,
+      "x": -590,
+      "y": 1660
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "267c491ce5fcf512",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "Preis",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1540
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "e3a78259deb17438",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "Lagerbestand",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1640
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "1f07c209a4e545b5",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "**P̲r̲o̲d̲u̲k̲t̲I̲D̲**",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1140
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "077ff8590ae89f69",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "HerstellerID",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1250
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "8f79c18ad1dcd660",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "Name",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1340
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "62d79763ea1c2bae",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "Beschreibung",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 1440
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "93cc88a77b251e59",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "__**PositionID**__\n\n",
+      "type": "text",
+      "width": 170,
+      "x": -245,
+      "y": 670
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "209c1b44a2e07380",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "Menge",
+      "type": "text",
+      "width": 170,
+      "x": -245,
+      "y": 770
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "fda5dcfc703e50a8",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "Einzelpreis",
+      "type": "text",
+      "width": 170,
+      "x": -245,
+      "y": 860
+    },
+    {
+      "color": "#ff00ae",
+      "height": 60,
+      "id": "d79c5da23c0a1b95",
+      "styleAttributes": {
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "text": "**P̲o̲s̲i̲t̲i̲o̲n̲s̲I̲D̲**",
+      "type": "text",
+      "width": 170,
+      "x": -245,
+      "y": 960
     },
     {
       "color": "#ff00ae",
@@ -570,48 +808,6 @@
       "y": 1760
     },
     {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "1f07c209a4e545b5",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "**P̲r̲o̲d̲u̲k̲t̲I̲D̲**",
-      "type": "text",
-      "width": 260,
-      "x": -1160,
-      "y": 1140
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "077ff8590ae89f69",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "HerstellerID",
-      "type": "text",
-      "width": 260,
-      "x": -1160,
-      "y": 1250
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "393fc5eafd5b6a45",
-      "styleAttributes": {
-        "shape": null,
-        "textAlign": "center"
-      },
-      "text": "Kategorie",
-      "type": "text",
-      "width": 260,
-      "x": -760,
-      "y": 1400
-    },
-    {
       "color": "4",
       "height": 60,
       "id": "b358721dc7505169",
@@ -624,34 +820,6 @@
       "width": 260,
       "x": -160,
       "y": 1060
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "8f79c18ad1dcd660",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "Name",
-      "type": "text",
-      "width": 260,
-      "x": -1160,
-      "y": 1340
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "55231b9445901f16",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "text": "ProduktKategorie",
-      "type": "text",
-      "width": 260,
-      "x": -760,
-      "y": 1230
     },
     {
       "color": "5",
@@ -668,46 +836,6 @@
       "y": 1200
     },
     {
-      "height": 400,
-      "id": "c89bbae7766e9931",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "text": "***Beschreibung***:\n\n\nDie Datenbank stellt das ==**Produktsortiment**== und die **==Bestellübersicht==** eines E-Commerce-Systems dar. Sie umfasst **Produkte**, **Kategorien**, **Hersteller**, **Kunden**, **Bestellungen** und die **bestellten Artikel**. Ziel ist es, eine **übersichtliche Datenstruktur** zur Verwaltung des Sortiments und der Kundenkäufe zu erstellen. \n\n\n\n**Einsatzzweck**: Auswertung von Verkäufen, Kundenverhalten und Inventurdurchführung.\n",
-      "type": "text",
-      "width": 870,
-      "x": -30,
-      "y": -80
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "b35484bf5287063d",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "_**K̲a̲t̲e̲g̲o̲r̲i̲e̲I̲D̲**_\n",
-      "type": "text",
-      "width": 260,
-      "x": -590,
-      "y": 1550
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "ee26795f5c34215b",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "Bezeichnung",
-      "type": "text",
-      "width": 260,
-      "x": -590,
-      "y": 1660
-    },
-    {
       "color": "4",
       "height": 60,
       "id": "c5ac5b62885868e3",
@@ -722,144 +850,16 @@
       "y": 1340
     },
     {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "62d79763ea1c2bae",
+      "height": 400,
+      "id": "c89bbae7766e9931",
       "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
+        "textAlign": null
       },
-      "text": "Beschreibung",
+      "text": "***Beschreibung***:\n\n\nDie Datenbank stellt das ==**Produktsortiment**== und die **==Bestellübersicht==** eines E-Commerce-Systems dar. Sie umfasst **Produkte**, **Kategorien**, **Hersteller**, **Kunden**, **Bestellungen** und die **bestellten Artikel**. Ziel ist es, eine **übersichtliche Datenstruktur** zur Verwaltung des Sortiments und der Kundenkäufe zu erstellen. \n\n\n\n**Einsatzzweck**: Auswertung von Verkäufen, Kundenverhalten und Inventurdurchführung.\n",
       "type": "text",
-      "width": 260,
-      "x": -1160,
-      "y": 1440
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "267c491ce5fcf512",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "Preis",
-      "type": "text",
-      "width": 260,
-      "x": -1160,
-      "y": 1540
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "e3a78259deb17438",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "Lagerbestand",
-      "type": "text",
-      "width": 260,
-      "x": -1160,
-      "y": 1640
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "93cc88a77b251e59",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "__**PositionID**__\n\n",
-      "type": "text",
-      "width": 170,
-      "x": -245,
-      "y": 670
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "209c1b44a2e07380",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "Menge",
-      "type": "text",
-      "width": 170,
-      "x": -245,
-      "y": 770
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "fda5dcfc703e50a8",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "Einzelpreis",
-      "type": "text",
-      "width": 170,
-      "x": -245,
-      "y": 860
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "d79c5da23c0a1b95",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "**P̲o̲s̲i̲t̲i̲o̲n̲s̲I̲D̲**",
-      "type": "text",
-      "width": 170,
-      "x": -245,
-      "y": 960
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "45cdc9ec1448b6d8",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "Hauptsitz",
-      "type": "text",
-      "width": 210,
-      "x": -590,
-      "y": 410
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "90ec3c17518bb677",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "Name",
-      "type": "text",
-      "width": 210,
-      "x": -590,
-      "y": 510
-    },
-    {
-      "color": "#ff00ae",
-      "height": 60,
-      "id": "4a26641746822902",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "_**H̲e̲r̲s̲t̲e̲l̲l̲e̲r̲I̲D̲**_\n",
-      "type": "text",
-      "width": 210,
-      "x": -590,
-      "y": 610
+      "width": 870,
+      "x": -770,
+      "y": -1240
     }
   ]
 }

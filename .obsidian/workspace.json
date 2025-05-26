@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "10. Relationale Datenbanken/Projektarbeit/main.canvas",
+                "file": "11. Systemanalyse/Main.canvas",
                 "viewState": {
-                  "x": 673.1689519650656,
-                  "y": 743.7843013100438,
-                  "zoom": -1.4753014108206048
+                  "x": 255.5481010972801,
+                  "y": -1054.8408737542875,
+                  "zoom": -1.5214516019390467
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "main"
+              "title": "Main"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ökonomisc",
+                "query": "Supportabteilungen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "right": {
     "id": "711066f9e1547c87",
@@ -177,20 +176,30 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled.md",
-    "10. Relationale Datenbanken/Projektarbeit/main.canvas",
+    "11. Systemanalyse/Main.canvas",
+    "Media/SmartFormel.png",
+    "Media/DasMagischeViereck.png",
+    "Media/DasMagischeDreieck.png",
+    "11. Systemanalyse/Vokabeln.md",
+    "Media/Stakeholder.png",
+    "Media/Smart beispiel.png",
+    "Media",
     "4. Grundlagen der Programmierung/Canvas.canvas",
-    "10. Relationale Datenbanken/Projektarbeit.zip",
+    "11. Systemanalyse/IL/IL-Montag2.md",
+    "11. Systemanalyse/IL/IL-Montag1.md",
+    "Pasted image 20250526134802.png",
+    "11. Systemanalyse/IL",
+    "11. Systemanalyse/Pasted image 20250526093557.png.~tmp",
+    "11. Systemanalyse/Pasted image 20250526093542.png.~tmp",
+    "Pasted image 20250526093511.png",
+    "11. Systemanalyse",
+    "10. Relationale Datenbanken/Projektarbeit/main.canvas",
+    "10. Relationale Datenbanken/Projektarbeit/Projektarbeit-Datenbank.sql",
+    "10. Relationale Datenbanken/Projektarbeit/Kurzbeschreibung.pdf",
+    "10. Relationale Datenbanken/Projektarbeit/Entwurf-ERM-RDM - Copy.pdf",
+    "10. Relationale Datenbanken/Projektarbeit/Entwurf-ERM-RDM.pdf",
+    "10. Relationale Datenbanken/Entwurf-ERM-RDM.pdf",
     "10. Relationale Datenbanken/il-Montag.md",
-    "10. Relationale Datenbanken/Projektarbeit/RDM.pdf",
-    "10. Relationale Datenbanken/Projektarbeit/Projektarbeit-Daten-Select.sql",
-    "10. Relationale Datenbanken/IL195.sql",
-    "projektarbeit.graphml",
-    "10. Relationale Datenbanken/Projektarbeit/Projektarbeit-Daten-Update.sql",
-    "10. Relationale Datenbanken/Projektarbeit/Projektarbeit-Daten-Insert.sql",
-    "10. Relationale Datenbanken/Projektarbeit/createDatabase.sql",
-    "10. Relationale Datenbanken/Projektarbeit/New Text Document.txt",
-    "10. Relationale Datenbanken/Projektarbeit",
     "10. Relationale Datenbanken/Fragen.md",
     "README.md",
     "2. BQ Organisation/Canvas.canvas",
@@ -198,17 +207,11 @@
     "8. Grundlagen der Programmierung/Pasted image 20250328094958.png",
     "8. Grundlagen der Programmierung/Vorbereitung klausur.md",
     "6. Binaeres rechnen/Canvas.canvas",
-    "6. Binaeres rechnen/Pasted image 20250224135328.png",
-    "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210091000.png",
-    "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210092226.png",
-    "4. Grundlagen der Programmierung/additional Media/Montag/Pasted image 20250210093434.png",
     "3. WiSoR 1/Canvas.canvas",
     "3. WiSoR 1/Klausur.md",
     "3. WiSoR 1/Vorbereitung Klausur.md",
-    "3. WiSoR 1/Uebungsaufgaben/Donnerstag/NachfrageElastizitaet.jpg",
     "2. BQ Organisation/Uebungsaufgaben/Dienstag/Organigramm (anklicken).md",
     "2. BQ Organisation/Uebungsaufgaben/Montag/Uebung Durchgegangen.md",
-    "2. BQ Organisation/additional media/Montag/Pasted image 20250127094037.png",
     "1. Karriereassistent/1.2 Erste Recherche.md",
     "1. Karriereassistent/1.1 Mein Berufsbild.canvas",
     "8. Grundlagen der Programmierung/IL- Dienstag.md",
@@ -220,15 +223,11 @@
     "7. Arbeitsorganisation/Abschlussabfrage.md",
     "7. Arbeitsorganisation/Tatiana, 31.md",
     "7. Arbeitsorganisation/elevator pitch.md",
-    "Pasted image 20250307085606.png",
     "6. Binäres rechnen/Montag/Zahlensysteme.md",
-    "6. Binäres rechnen/Montag/img/Pasted image 20250224134052.png",
     "Binäres rechnen/Canvas.canvas",
     "5. Excel/Canvas.canvas",
     "Excel 2025-02-17 10.55.27.sheet.md",
     "5. Excel/Untitled.md",
-    "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Montag.md",
-    "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Mittwoch.md",
-    "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Donnerstag.md"
+    "3. WiSoR 1/IL-Aufgaben/IL-Aufgaben Montag.md"
   ]
 }
